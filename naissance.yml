@@ -1,0 +1,87 @@
+document:
+  type: acte de naissance
+  source: 
+    pays: FR
+    dept: 
+    commune: 
+    nom: 
+    web: 
+      url: 
+      page: 
+    notes: 
+  recup:
+    personne: Thierry Graff
+    date: ''
+
+acte:
+  numéro: 
+  numéro-feuillet: 
+  date: ''
+  lieu: 
+  
+personnes:
+  
+  ###### officier ##########
+  - 
+    rôle: officier
+    nom: 
+    fonction: 
+    sexe: M
+    
+  ###### acteur ##########
+  - 
+    rôle: acteur
+    nom: 
+    prénom: 
+    sexe: M
+    domicile: 
+    naissance: 
+      date: ''
+      lieu: 
+      lieu-precis: 
+    père: 
+    mère: 
+
+  ###### parents ##########
+  - 
+    rôle: comparant
+    nom: 
+    prénom: 
+    age: 
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis: 
+    relations:
+      -
+        avec: 
+    
+  - 
+    nom: 
+    prénom: 
+    age: 
+    sexe: F
+    profession: 
+    domicile: 
+    domicile-precis: 
+
+  ###### témoins ##########
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age: 
+    sexe: 
+    profession: 
+    domicile: 
+    domicile-precis: 
+    
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age: 
+    sexe: 
+    profession:                               
+    domicile: 
+    domicile-precis: 

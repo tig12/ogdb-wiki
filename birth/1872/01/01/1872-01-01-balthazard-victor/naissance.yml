@@ -1,0 +1,88 @@
+document:
+  type: acte de naissance
+  source: 
+    pays: FR
+    dept: 75
+    arrondissement: 11
+    commune: Paris
+    nom: 1872 , Naissances , 11 V4E 3864
+    web: 
+      url: archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMTktMTItMTgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjE5NDc3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==#uielem_move=-418%2C-1686&uielem_islocked=1&uielem_zoom=241&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F
+      page: 2 / 33
+    notes: 
+  recup:
+    personne: Thierry Graff
+    date: '2019-12-18 16:19:56+01:00'
+
+acte:
+  numéro: 
+  numéro-feuillet: 
+  date: '1872-01-02 11:00'
+  lieu: 
+  
+personnes:
+  
+  ###### officier ##########
+  - 
+    rôle: officier
+    nom: 
+    fonction: 
+    sexe: M
+    
+  ###### acteur ##########
+  - 
+    rôle: acteur
+    nom: Balthazard
+    prénom: Victor
+    sexe: M
+    domicile: 
+    naissance: 
+      date: '1872-01-01 21:00'
+      lieu: Paris
+      lieu-precis: 124 boulevard Voltaire
+    père: 
+    mère: 
+
+  ###### parents ##########
+  - 
+    rôle: comparant
+    nom: 
+    prénom: 
+    age: 
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis: 
+    relations:
+      -
+        avec: 
+    
+  - 
+    nom: 
+    prénom: 
+    age: 
+    sexe: F
+    profession: 
+    domicile: 
+    domicile-precis: 
+
+  ###### témoins ##########
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age: 
+    sexe: 
+    profession: 
+    domicile: 
+    domicile-precis: 
+    
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age: 
+    sexe: 
+    profession:                               
+    domicile: 
+    domicile-precis: 

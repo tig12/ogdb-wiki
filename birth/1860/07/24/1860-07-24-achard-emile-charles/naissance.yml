@@ -1,0 +1,89 @@
+document:
+  type: acte de naissance
+  source:
+    pays: FR
+    dept: 75
+    commune: Paris
+    arrondissement: 9
+    nom: 1860 , Naissances , 09 V4E 955
+    web: 
+      url: archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMTktMTItMTgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjAzODk2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==#uielem_move=-1429%2C-1228&uielem_islocked=1&uielem_zoom=167&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F
+      page: 4 / 31
+    notes: |
+      Nom original de l'image : archives_AD075EC_V4E_00955_0097.JPG
+  recup:
+    personne: Thierry Graff
+    date: '2019-12-18 18:19:08+01:00'                                                                                                                                                                                                                                                                                                                
+
+acte:
+  numéro: 1324
+  numéro-feuillet:
+  date: '1860-07-25'
+  lieu: 
+  
+personnes:
+  
+  ###### officier ##########
+  - 
+    rôle: officier
+    nom: 
+    fonction: 
+    sexe: M
+    
+  ###### acteur ##########
+  - 
+    rôle: acteur
+    nom: Achard
+    prénom: Emile Charles
+    sexe: M
+    domicile: 
+    naissance: 
+      date: '1860-07-25 09:30'
+      lieu: 
+      lieu-precis: 
+    père: 
+    mère: 
+
+  ###### parents ##########
+  - 
+    rôle: comparant
+    nom: 
+    prénom: 
+    age:
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis: 
+    relations:                           
+      -
+        avec: 
+    
+  - 
+    nom: 
+    prénom: 
+    age: 
+    sexe: F
+    profession: 
+    domicile: 
+    domicile-precis: 
+
+  ###### témoins ##########
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age:
+    sexe: 
+    profession: 
+    domicile: 
+    domicile-precis:
+    
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age:
+    sexe: 
+    profession:                               
+    domicile: 
+    domicile-precis:

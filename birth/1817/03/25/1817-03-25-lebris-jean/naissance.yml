@@ -1,0 +1,102 @@
+document:
+  type: acte de naissance
+  source:
+    pays: FR
+    dept: 92
+    commune: Concarneau
+    nom: 1 MI EC 53/10 Naissances
+    web: 
+      url: http://mnesys-portail.archives-finistere.fr/?id=viewer&doc=accounts%2Fmnesys_cg29%2Fdatas%2Fir%2Fetatcivil%2FFRAD029_etatcivilnumerise.xml&page_ref=13353&lot_num=1&img_num=1&index_in_visu=
+      page: 377 / 559
+    notes:
+      - Image reconstituée à partir de copies d'écran
+      - |
+        Aller sur : http://mnesys-portail.archives-finistere.fr/?id=recherche_etat_civil                  
+        puis Naissances / Concarneau / 1817
+
+  recup:
+    personne: Thierry Graff
+    date: '2019-12-22 00:20:05+01:00'
+
+acte:
+  numéro: 
+  numéro-feuillet:
+  date: '1817-03-25'
+  lieu: Concarneau
+  
+personnes:
+  
+  ###### officier ##########
+  - 
+    rôle: officier
+    nom: Jean Paul Bpnnecarire
+    fonction: Maire de la ville de Concarneau
+    sexe: M
+    
+  ###### acteur ##########
+  - 
+    rôle: acteur
+    nom: LeBris
+    prénom: Jean Marie
+    sexe: M
+    domicile: Concarneau
+    naissance: 
+      date: '1817-03-25 05:00'
+      lieu: Concarneau
+      lieu-precis: 
+    père: LeBris Michel Marie
+    mère: Perrine Rosalie Riou
+
+  ###### parents ##########
+  - 
+    nom: LeBris
+    prénom: Michel Marie
+    age:
+    sexe: M
+    profession: Capitaine de barque
+    domicile: Concarneau
+    domicile-precis: 
+    relations:                           
+      -
+        avec: Perrine Rosalie Riou
+    
+  - 
+    nom: Riou
+    prénom: Perrine Rosalie
+    age: 
+    sexe: F
+    profession: 
+    domicile: 
+    domicile-precis: 
+
+  ###### témoins ##########
+  - 
+    rôles:
+      - témoin
+      - parrain
+    nom: Guillou
+    prénom: Nicolas
+    age:
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis:
+    père: Jean Marie Saubon
+    
+  -
+    nom: Saubon
+    prénom: Jean Marie
+    sexe: M
+    
+  - 
+    rôles:
+      - témoin
+      - marraine
+    nom: Riou
+    prénom: Marie Charlotte
+    age: 
+    sexe: M
+    profession: 
+    domicile: Concarneau
+    domicile-precis: 
+

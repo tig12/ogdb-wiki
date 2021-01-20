@@ -1,0 +1,88 @@
+document:
+  type: acte de naissance
+  source: 
+    pays: FR
+    dept: 75
+    commune: Paris
+    arrondissement: 5
+    nom: 1867 , Naissances , 05 V4E 579
+    web: 
+      url: archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMTktMTItMTgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjAxODYyO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==#uielem_move=-828%2C41&uielem_islocked=1&uielem_zoom=140&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F
+      page: 16 / 21
+    notes: 
+  recup:
+    personne: Thierry Graff
+    date: '2019-12-18 20:00:18+01:00'                                             
+
+acte:
+  numéro: 1171
+  numéro-feuillet: 76
+  date: '1867-05-17 12:00'
+  lieu: Mairie du cinquième arrondissement
+  
+personnes:
+  
+  ###### officier ##########
+  - 
+    rôle: officier
+    nom: 
+    fonction: 
+    sexe: M
+    
+  ###### acteur ##########
+  - 
+    rôle: acteur
+    nom: Bertrand
+    prénom: Gabriel Emile
+    sexe: M
+    domicile: 
+    naissance: 
+      date: '1867-05-17 10:00'
+      lieu: Paris
+      lieu-precis: 146 rue Saint-Jacques
+    père: 
+    mère: 
+
+  ###### parents ##########
+  - 
+    rôle: comparant
+    nom: 
+    prénom: 
+    age: 
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis: 
+    relations:
+      -
+        avec: 
+    
+  - 
+    nom: 
+    prénom: 
+    age: 
+    sexe: F
+    profession: 
+    domicile: 
+    domicile-precis: 
+
+  ###### témoins ##########
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age: 
+    sexe: 
+    profession: 
+    domicile: 
+    domicile-precis: 
+    
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age: 
+    sexe: 
+    profession:                               
+    domicile: 
+    domicile-precis: 
