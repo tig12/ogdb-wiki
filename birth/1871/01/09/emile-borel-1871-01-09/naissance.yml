@@ -1,0 +1,90 @@
+document:
+  type: Acte de naissance
+  source:
+    pays: FR
+    commune: Saint-Affrique, 12
+    nom: SAINT-AFFRIQUE (Aveyron) 4E216-33 Naissance État civil 02/01/1871 - 08/04/1871
+    web: 
+      url:
+        # lien permanent
+        - http://archives.aveyron.fr/ark:/11971/vta52df831877e0c/daogrp/0#id:1722182262
+        # lien ok aussi
+        - http://archives.aveyron.fr/ark:/11971/vta52df831877e0c/daogrp/0/layout:table/idsearch:RECH_08b5f1646fd14cb21c09086d0fcf6eac#id:1722182262?center=1048.9302627381053,-2337.4354543295535
+      page: 6 / 40
+    notes:
+      - Copie d'écran
+  recup:
+    personne: Thierry Graff
+    date: '2014-11-19 00:19:23+02:00'
+
+acte:
+  numéro: 11
+  numéro-feuillet: 4
+  date: '1871-01-09 15:00'
+  lieu: 
+  
+personnes:
+  
+  ###### officier ##########
+  - 
+    rôle: officier
+    nom: 
+    fonction: Adjoint au maire de la commune de
+    sexe: M
+    
+  ###### acteur ##########
+  - 
+    rôle: acteur
+    prenom: Emile
+    nom: Borel
+    nom-officiel: Félix Edouard Justin Emile Borel
+    sexe: 
+    domicile: 
+    naissance: 
+      date: '1871-01-09 04:00'
+      lieu: Saint-Affrique
+      c2: 12
+      lieu-precis: 
+    père: 
+    mère: 
+
+  ###### parents ##########
+  - 
+    rôle: comparant
+    nom: 
+    age: 
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis: 
+    relations:
+      -
+        avec: 
+    
+  - 
+    nom: 
+    age: 
+    sexe: F
+    profession: 
+    domicile: 
+    domicile-precis: 
+
+  ###### témoins ##########
+  - 
+    rôle: témoin
+    nom: 
+    age: 
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis: 
+    
+  - 
+    rôle: témoin
+    nom: 
+    age: 
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis: 
+
