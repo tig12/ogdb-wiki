@@ -1,0 +1,6 @@
+<Files ".gitignore">  
+  Require all denied
+</Files>
+
+# Forbid browsing of .git/
+RedirectMatch 403 ^/.git/.*$
