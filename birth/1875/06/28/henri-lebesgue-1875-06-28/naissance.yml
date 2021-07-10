@@ -1,0 +1,87 @@
+document:
+  type: acte de naissance
+  source: 
+    pays: FR
+    dept: 60
+    commune: Beauvais
+    nom: 2MI/ECA 057 R9 BEAUVAIS NMD 1874, septembre-1875
+    web: 
+      url: http://ressources.archives.oise.fr/ark:/44803/g679f81a247cf3231092937ecc40a15dc/bdd315f670376f383cebe2f64e41c13d/379/YWQ2MF8ybWllY2IwNTdyOV8wMzgxX2UuanBn
+      page: 379 / 758
+    notes: Voir http://archives.oise.fr/archives-en-ligne/etat-civil/
+  recup:
+    personne: Thierry Graff
+    date: '2021-01-21 07:46:51+01:00'
+
+acte:
+  numéro: 
+  numéro-feuillet: 
+  date: ''
+  lieu: 
+  
+personnes:
+  
+  ###### officier ##########
+  - 
+    rôle: officier
+    nom: 
+    fonction: 
+    sexe: M
+    
+  ###### acteur ##########
+  - 
+    rôle: acteur
+    nom: 
+    prénom: 
+    sexe: M
+    domicile: 
+    naissance: 
+      date: ''
+      lieu: 
+      lieu-precis: 
+    père: 
+    mère: 
+
+  ###### parents ##########
+  - 
+    rôle: comparant
+    nom: 
+    prénom: 
+    age: 
+    sexe: M
+    profession: 
+    domicile: 
+    domicile-precis: 
+    relations:
+      -
+        avec: 
+    
+  - 
+    nom: 
+    prénom: 
+    age: 
+    sexe: F
+    profession: 
+    domicile: 
+    domicile-precis: 
+
+  ###### témoins ##########
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age: 
+    sexe: 
+    profession: 
+    domicile: 
+    domicile-precis: 
+    
+  - 
+    rôle: témoin
+    nom: 
+    prénom: 
+    age: 
+    sexe: 
+    profession:                               
+    domicile: 
+    domicile-precis: 
