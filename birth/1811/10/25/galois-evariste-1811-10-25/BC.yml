@@ -1,0 +1,53 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2019-12-21 02:29:53+01:00'
+      action: Creation
+
+opengauquelin:
+  projects: french-math
+
+source:
+  civil-registry:
+    name: '1811 E_NUM_BRG38'
+    place: Bourg-la-Reine
+    cy: FR
+    c2: 92
+    web: 
+      url: http://consultation.archives.hauts-de-seine.net/mdr/index.php/docnumViewer/calculHierarchieDocNum/398088/367506:396213:398074:398075:398088/720/1280
+      page: 5 / 7
+  document:
+    date: '1811-10-26 13:00'
+    place: Bourg-la-Reine
+  notes: Feuillet numéro 4
+  images:
+    - BC1.jpg
+    - BC2.jpg
+  
+person:
+  name:
+    given: Evariste
+    family: Galois
+    official: 
+      family: Galois
+      given: Evariste
+  
+  sex: M
+  
+  birth:
+    date: '1811-10-25 01:00'
+    place:
+      name: Bourg-la-Reine
+      cy: FR
+      c2: 92
+
+extras:
+  occus:
+    - mathematician
