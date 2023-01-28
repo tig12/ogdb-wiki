@@ -1,0 +1,59 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-01-28' # 02:46:30+01:00
+      action: Locate and download act
+    -
+      actor: Thierry Graff
+      date: '2023-01-28' # 14:41:47+01:00
+      action: Add to opengauquelin
+      
+opengauquelin:
+ projects:
+   - french-math
+   
+source:
+  civil-registry:
+    name: 4E 3967 - 5MI 340 [1115770/1] 
+    place: Versailles
+    cy: FR
+    c2: '78'
+    web: 
+      url: https://archives.yvelines.fr/ark:36937/s0053d37da93a430/53d37da93f3c0.fiche=arko_fiche_6195168693b56.moteur=arko_default_618914e3ee7e4
+      page: 188 / 196
+  
+  document-creation:
+    date: '1865-12-11 10:00'
+    place: Versailles
+  
+person:
+  name:
+    official:
+      given: Jacques Salomon
+      family: Hadamard
+  sex: M
+  birth:
+    date: '1865-12-08 22:00'
+    place:
+      name: Versailles
+      cy: FR
+      c2: '78'
+      
+extras:
+  name:
+    given: Jacques
+    family: Hadamard
+  
+  occus:
+    - mathematician
