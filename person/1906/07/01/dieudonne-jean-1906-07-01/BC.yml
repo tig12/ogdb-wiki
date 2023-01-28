@@ -1,0 +1,58 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  # History of modifications of the current file
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-01-26' #  20:45:32+01:00
+      action: Locate and transcribe the act
+    -
+      actor: Thierry Graff
+      date: '2023-01-28' # 01:28:49+01:00
+      action: Add to opengauquelin.org
+      
+opengauquelin:
+ projects:
+   - french-math
+   
+source:
+  # name, place, c1, c2, c3 concern the civil registry where the original act can be found
+  civil-registry:
+    name: LILLE / N [1906-05-06 - 1906-07-10] - 3 E 15064
+    place: Lille
+    cy: FR
+    c2: '59'
+    web: 
+      url: https://archivesdepartementales.lenord.fr/ark:/33518/0rl8h5ctg46s/9caaba3f-67b0-4b9d-89cd-317e5bb21168
+      page: 252 / 297
+  document-creation:
+    date: '1906-07-02 10:00'
+    place: Lille
+
+person:
+  name:
+    official:
+      given: Jean Alexandre Eugène
+      family: Dieudonné
+  sex: M
+  
+  birth:
+    date: '1906-07-01 13:10'
+    place:
+      name: Lille
+      cy: FR
+      c2: '59'
+      
+extras:
+  name:
+    given: Jean
+    family: Dieudonné
+  occus:
+    - mathematician
+  

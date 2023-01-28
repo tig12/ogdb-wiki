@@ -1,0 +1,23 @@
+#
+# Description of a wiki project
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-01-21' # 05:58:26+01:00
+      action: Addition to Open Gauquelin Database
+      
+status: active
+
+name: French mathematicians
+
+description: |
+  The purpose is to build an exhaustive list of French mathematicians with birth certificate available online (in practice, born between 1792 and around 1920).
+
+details: |
+  Exhaustivity can be achieved at least for members of the French academy of sciences (listed on <a href="https://www.academie-sciences.fr/fr/Table/Membres/Liste-des-membres-depuis-la-creation-de-l-Academie-des-sciences/">academie-sciences.fr</a>)

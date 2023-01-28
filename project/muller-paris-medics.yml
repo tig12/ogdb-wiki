@@ -1,0 +1,25 @@
+#
+# Description of a wiki project
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-01-21' # 20:48:36+01:00
+      action: Addition to Open Gauquelin Database
+      
+status: active
+
+name: Arno Müller's physicists from Paris
+
+description: |
+  The purpose is to verify birth dates that Arno Müller was not able to check.
+details: |
+  Historical background : Arno Müller and Suitbert Ertel replicated in 1994 the works of Michel and Françoise Gauquelin of 1955 and 1960, for the studies concerning physicists. They were able to check French data, but for Paris, this was too complicated. This project aims to fill this gap.
+  <br>Concerned persons are members of the group <a href="/group/muller-afd5-medics">Müller 1083 physicians</a> born in Paris.
+  <br>See <a href="https://tig12.github.io/gauquelin5/muller5-1083-medics.html#fix-paris">tig12.github.io</a> and <a href="https://newalchemypress.com/gauquelin/research5.php">newalchemypress.com</a> (paragraph "5. Replication using French physicians") for more information.
+  <br><br>Considering physicisians born after 1860, the possible verifications concern 40 persons.

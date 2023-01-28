@@ -1,0 +1,58 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  # History of modifications of the current file
+  history:
+    -
+      actor: Thierry Graff
+      date: '2021-01-21' # 07:46:51+01:00
+      action: Locate and download the act
+    -
+      actor: Thierry Graff
+      date: '2023-01-25' # 00:35:07+01:00
+      action: Transcribe the act and add to opengauquelin.org
+      
+opengauquelin:
+ projects: [french-math]
+   
+source:
+  civil-registry:
+    name: 2MI/ECA 057 R9 BEAUVAIS NMD 1874, septembre-1875
+    place: Beauvais
+    cy: FR
+    c2: '60'
+    web: 
+      url: http://ressources.archives.oise.fr/ark:/44803/g679f81a247cf3231092937ecc40a15dc/bdd315f670376f383cebe2f64e41c13d/379/YWQ2MF8ybWllY2IwNTdyOV8wMzgxX2UuanBn
+      page: 381 / 760
+  document-creation:
+    date: '1875-06-29 11:00'
+    place: Beauvais
+  notes: |
+    Search form to find the registry : <a href="http://archives.oise.fr/archives-en-ligne/etat-civil/">http://archives.oise.fr/archives-en-ligne/etat-civil/</a>
+    <br>Act n° 437
+  images: ["BC1.jpg", "BC2.jpg"]
+  
+person:
+  name:
+    given: Henri
+    family: Lebesgue
+    official:         
+      family: Lebesgue
+      given: Léon Henri
+  sex: M
+  
+  birth:
+    date: '1875-06-28 07:00'
+    place:
+      name: Beauvais
+      cy: FR
+      c2: '60'
+extras:
+  occus:
+    - mathematician
+  

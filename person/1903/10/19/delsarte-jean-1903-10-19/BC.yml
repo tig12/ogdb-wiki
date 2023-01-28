@@ -1,0 +1,55 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  # History of modifications of the current file
+  history:
+    -
+      actor: Thierry Graff
+      date: 2023-01-26 # 20:33:55+01:00
+      action: Locate and transcribe the act
+#      action: Addition to the Open Gauquelin Database
+      
+opengauquelin:
+ projects:
+   - french-math
+   
+source:
+  civil-registry:
+    name: FOURMIES / N [1903 - 1904] 
+    place: Fourmies
+    cy: FR
+    c2: '59'
+    web: 
+      url: https://archivesdepartementales.lenord.fr/ark:/33518/8bxrfl9n7tpg/b27ed239-a9b3-4d2f-9671-1793b4bf6aec
+      page: 75 / 209
+  document-creation:
+    date: '1903-10-21 08:30'
+    place: Fourmies
+  notes:
+  
+person:
+  name:
+    official:
+      given: Jean Frédéric Auguste
+      family: Delsarte
+  sex: M
+  
+  birth:
+    date: '1903-10-19 08:30'
+    place:
+      name: Fourmies
+      cy: FR
+      c2: '59'
+      
+extras:
+  name:
+      given: Jean
+      family: Delsarte
+  occus:
+    - mathematician
+  

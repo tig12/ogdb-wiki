@@ -1,0 +1,65 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  # History of modifications of the current file
+  history:
+    -
+      actor: Thierry Graff
+      date: '2021-05-16' # 12:25:43+01:00
+      action: Locate and transcibe the act
+    -
+      actor: Thierry Graff
+      date: '2023-01-27' # 22:50:02+01:00
+      action: Add to opengauquelin.org
+      
+opengauquelin:
+ projects:
+   - french-math
+   - women
+   
+source:
+  civil-registry:
+    name: Actes de l'état civil reconstitué, registre 5Mi1 51 
+    place: Paris
+    cy: FR
+    c2: '75'
+    web: 
+      page: 8, 9, 10 / 51
+  notes: |
+    Direct link to the document doesn't seem to work.
+    <br>To find this act, go to "<a href="http://archives.paris.fr/s/39/etat-civil-reconstitue-actes/?">Archives de Paris, Actes de l'état civil reconstitué (naissances et mariages)</a>"
+    <br>In the form : "Type d'acte" : Naissances ; "Date de l'acte" : 01/04/1776
+    <br>On the result page, click on document "5Mi1 51"
+  
+  images:
+    - naissance.jpg
+    - bapteme1.jpg
+    - bapteme2.jpg
+  
+person:
+  name:
+    official:
+      given: Marie Sophie
+      family: Germain
+  sex: F
+  
+  birth:
+    date: '1776-04-01'
+    notime: true
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      
+extras:
+  name:
+    given: Sophie
+    family: Germain
+  occus:
+    - mathematician
+  

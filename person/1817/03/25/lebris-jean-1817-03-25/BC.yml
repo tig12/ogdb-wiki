@@ -1,0 +1,55 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2019-12-22' # 00:20:05+01:00
+      action: Locate, transcribe the act
+    -
+      actor: Thierry Graff
+      date: '2023-01-28' # 00:34:07+01:00
+      action: Add to Open Gauquelin Database
+      
+opengauquelin:
+ projects:
+   - fix-gauquelin
+   
+source:
+  civil-registry:
+    name: 1 MI EC 53/10 Naissances
+    place: Concarneau
+    cy: FR
+    c2: '29'
+    web: 
+      url: http://mnesys-portail.archives-finistere.fr/?id=viewer&doc=accounts%2Fmnesys_cg29%2Fdatas%2Fir%2Fetatcivil%2FFRAD029_etatcivilnumerise.xml&page_ref=13353&lot_num=1&img_num=1&index_in_visu=
+      page: 377 / 559
+  
+  document-creation:
+    date: '1817-03-25'
+    place: Concarneau
+  
+person:
+  name:
+    official:
+      given: LeBris
+      family: Jean Marie
+  sex: M
+  
+  birth:
+    date: '1817-03-25 05:00'
+    place:
+      name: Concarneau
+      cy: FR
+      c2: 29
+      
+extras:
+  name:
+    given: Lebris
+    family: Jean
+  
