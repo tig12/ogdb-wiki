@@ -1,0 +1,62 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2019-12-18' # 16:19:56+01:00
+      action: Locate and download the act
+    -
+      actor: Thierry Graff
+      date: '2023-01-29' #  08:42:18+01:00
+      action: Add to opengauquelin.org
+      
+opengauquelin:
+ projects:
+   - muller-paris-medics
+   
+source:
+  civil-registry:
+    name: 1872 , Naissances , 11 V4E 3864
+    place: Paris
+    cy: FR
+    c2: '75'
+    c3: '11'
+    web: 
+      url: archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMTktMTItMTgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjE5NDc3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 2 / 33
+  
+  document-creation:
+    date: '1872-01-02 11:00'
+    place: Paris
+
+  notes: |
+    Born at home, 124 bd Voltaire
+    <br>This person is part of physicians born in Paris that Arno Müller couldn't check in 1994 (see details on <a href="https://tig12.github.io/gauquelin5/muller5-1083-medics.html#fix-paris">tig12.github.io/gauquelin5</a>).
+    <br>Comparison with birth certificate shows that Gauquelin birth time was erroneous (09:00 instead of 21:00).
+  
+person:
+  name:
+    official:
+      given: Victor
+      family: Balthazard
+  sex: M
+  birth:
+    date: '1872-01-01 21:00'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '11'
+      
+extras:
+  name:
+    given: Victor
+    family: Balthazard
+  occus:
+  
