@@ -26,9 +26,10 @@ opengauquelin:
 source:
   civil-registry:
     name: 4E 3967 - 5MI 340 [1115770/1] 
-    place: Versailles
-    cy: FR
-    c2: '78'
+    place:
+      name: Versailles
+      cy: FR
+      c2: '78'
     web: 
       url: https://archives.yvelines.fr/ark:36937/s0053d37da93a430/53d37da93f3c0.fiche=arko_fiche_6195168693b56.moteur=arko_default_618914e3ee7e4
       page: 188 / 196
@@ -37,7 +38,7 @@ source:
     date: '1865-12-11 10:00'
     place: Versailles
   
-person:
+transcription:
   name:
     official:
       given: Jacques Salomon

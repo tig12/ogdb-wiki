@@ -19,10 +19,11 @@ opengauquelin:
 source:
   civil-registry:
     name: '1906, Naissances, 10 - 10 10N 360'
-    place: Paris
-    cy:  FR
-    c2: '75'
-    c3: '10'
+    place:
+      name: Paris
+      cy:  FR
+      c2: '75'
+      c3: '10'
     web: 
       url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDEtMTIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjgwNDU2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
       page: 14 / 31
@@ -36,7 +37,7 @@ source:
     <br>The search form to find this document is on <a href="https://archives.paris.fr/s/4/etat-civil-actes/?">https://archives.paris.fr/s/4/etat-civil-actes/?</a>
     
   
-person:
+transcription:
   name:
     given: Weil
     family: André

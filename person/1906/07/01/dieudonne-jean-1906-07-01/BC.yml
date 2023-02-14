@@ -25,9 +25,10 @@ source:
   # name, place, c1, c2, c3 concern the civil registry where the original act can be found
   civil-registry:
     name: LILLE / N [1906-05-06 - 1906-07-10] - 3 E 15064
-    place: Lille
-    cy: FR
-    c2: '59'
+    place:
+      name: Lille
+      cy: FR
+      c2: '59'
     web: 
       url: https://archivesdepartementales.lenord.fr/ark:/33518/0rl8h5ctg46s/9caaba3f-67b0-4b9d-89cd-317e5bb21168
       page: 252 / 297
@@ -35,7 +36,7 @@ source:
     date: '1906-07-02 10:00'
     place: Lille
 
-person:
+transcription:
   name:
     official:
       given: Jean Alexandre Eugène

@@ -23,9 +23,10 @@ opengauquelin:
 source:
   civil-registry:
     name: 2MI/ECA 057 R9 BEAUVAIS NMD 1874, septembre-1875
-    place: Beauvais
-    cy: FR
-    c2: '60'
+    place:
+      name: Beauvais
+      cy: FR
+      c2: '60'
     web: 
       url: http://ressources.archives.oise.fr/ark:/44803/g679f81a247cf3231092937ecc40a15dc/bdd315f670376f383cebe2f64e41c13d/379/YWQ2MF8ybWllY2IwNTdyOV8wMzgxX2UuanBn
       page: 381 / 760
@@ -37,7 +38,7 @@ source:
     <br>Act n° 437
   images: ["BC1.jpg", "BC2.jpg"]
   
-person:
+transcription:
   name:
     given: Henri
     family: Lebesgue

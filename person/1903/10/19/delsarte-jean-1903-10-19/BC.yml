@@ -21,9 +21,10 @@ opengauquelin:
 source:
   civil-registry:
     name: FOURMIES / N [1903 - 1904] 
-    place: Fourmies
-    cy: FR
-    c2: '59'
+    place:
+      name: Fourmies
+      cy: FR
+      c2: '59'
     web: 
       url: https://archivesdepartementales.lenord.fr/ark:/33518/8bxrfl9n7tpg/b27ed239-a9b3-4d2f-9671-1793b4bf6aec
       page: 75 / 209
@@ -32,7 +33,7 @@ source:
     place: Fourmies
   notes:
   
-person:
+transcription:
   name:
     official:
       given: Jean Frédéric Auguste

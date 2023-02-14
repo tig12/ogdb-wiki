@@ -19,9 +19,10 @@ opengauquelin:
 source:
   civil-registry:
     name: 4E216-33 Naissance État civil 02/01/1871 - 08/04/1871
-    place: Saint-Affrique
-    cy: FR
-    c2: '12'
+    place:
+      name: Saint-Affrique
+      cy: FR
+      c2: '12'
     web: 
       url: http://archives.aveyron.fr/ark:/11971/vta52df831877e0c/daogrp/0#id:1722182262
       page: 6 / 40
@@ -31,7 +32,7 @@ source:
     place: Saint-Affrique
   notes: Acte N° 11, feuillet N° 4
   
-person:
+transcription:
   name:
     official:         
       family: Borel

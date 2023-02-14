@@ -25,9 +25,10 @@ opengauquelin:
 source:
   civil-registry:
     name: Actes de l'état civil reconstitué, registre 5Mi1 51 
-    place: Paris
-    cy: FR
-    c2: '75'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
     web: 
       page: 8, 9, 10 / 51
   notes: |
@@ -41,7 +42,7 @@ source:
     - bapteme1.jpg
     - bapteme2.jpg
   
-person:
+transcription:
   name:
     official:
       given: Marie Sophie

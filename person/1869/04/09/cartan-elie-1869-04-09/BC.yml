@@ -23,9 +23,10 @@ opengauquelin:
 source:
   civil-registry:
     name: 9NUM2/5E149/13 Dolomieu naissances 1863-1872 Collection départementale
-    place: Dolomieu
-    cy: FR
-    c2: '38'
+    place:
+      name: Dolomieu
+      cy: FR
+      c2: '38'
     web: 
       url: http://archivesenligne.archives-isere.fr/mdr/index.php/docnumViewer/calculHierarchieDocNum/557149/484590:538690:541481:557149/1080/1920
       page: 89 / 143
@@ -35,7 +36,7 @@ source:
 
   notes:
   
-person:
+transcription:
   name:
     official:         
       family: Cartan

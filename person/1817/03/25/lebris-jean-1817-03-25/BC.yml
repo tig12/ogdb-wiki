@@ -23,9 +23,10 @@ opengauquelin:
 source:
   civil-registry:
     name: 1 MI EC 53/10 Naissances
-    place: Concarneau
-    cy: FR
-    c2: '29'
+    place:
+      name: Concarneau
+      cy: FR
+      c2: '29'
     web: 
       url: http://mnesys-portail.archives-finistere.fr/?id=viewer&doc=accounts%2Fmnesys_cg29%2Fdatas%2Fir%2Fetatcivil%2FFRAD029_etatcivilnumerise.xml&page_ref=13353&lot_num=1&img_num=1&index_in_visu=
       page: 377 / 559
@@ -34,7 +35,7 @@ source:
     date: '1817-03-25'
     place: Concarneau
   
-person:
+transcription:
   name:
     official:
       given: LeBris
