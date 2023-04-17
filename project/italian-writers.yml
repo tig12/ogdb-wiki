@@ -9,13 +9,12 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-01-28' # 00:36:54+01:00
+      date: '2023-03-22' # 23:53:31+01:00
       action: Addition to Open Gauquelin Database
       
 status: active
 
-name: Fix Gauquelin data
+name: Italian writers
 
 description: |
-  The purpose is to correct errors in the Gauquelin data
-  
+  The purpose is to correct and complete the list of <a href="/group/muller-afd1-writers">Italian writers</a>.

@@ -1,5 +1,6 @@
 #
 # Description of a wiki project
+#
 # This document is released under the terms of licence
 # Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
 # https://creativecommons.org/licenses/by-sa/4.0/
@@ -9,12 +10,13 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-01-27' # 22:56:45+01:00
+      date: '2023-03-05 19:20:18+01:00'
+      place: home
       action: Addition to Open Gauquelin Database
       
 status: active
 
-name: Famous women
+name: Fix date
 
 description: |
-  Document birth dates and times of famous women of the past.
+  Fix issues related to birth day, birth time or both.
