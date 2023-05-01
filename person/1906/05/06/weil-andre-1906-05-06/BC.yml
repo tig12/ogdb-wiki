@@ -36,11 +36,9 @@ source:
     Act n° 1822
     <br>The search form to find this document is on <a href="https://archives.paris.fr/s/4/etat-civil-actes/?">https://archives.paris.fr/s/4/etat-civil-actes/?</a>
     
-  
+
 transcription:
   name:
-    given: Weil
-    family: André
     official:
       family: Weil
       given: André Abraham
@@ -56,6 +54,9 @@ transcription:
       c3: '10'
       
 extras:
+  name:
+    family: Weil
+    given: André
   occus:
     - mathematician
   

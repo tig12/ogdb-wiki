@@ -40,20 +40,21 @@ source:
   
 transcription:
   name:
-    given: Henri
-    family: Lebesgue
     official:         
       family: Lebesgue
       given: Léon Henri
   sex: M
-  
   birth:
     date: '1875-06-28 07:00'
     place:
       name: Beauvais
       cy: FR
       c2: '60'
+      
 extras:
+  name:
+    given: Henri
+    family: Lebesgue
   occus:
     - mathematician
   

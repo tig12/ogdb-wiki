@@ -9,7 +9,7 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2019-12-21 02:29:53+01:00'
+      date: '2019-12-21' # 02:29:53+01:00
       action: Addition to the Open Gauquelin Database
 
 opengauquelin:
@@ -46,7 +46,7 @@ transcription:
 
 extras:
   name:
-    given: Evariste
     family: Galois
+    given: Evariste
   occus:
     - mathematician

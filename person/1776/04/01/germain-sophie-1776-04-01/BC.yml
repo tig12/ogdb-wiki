@@ -16,6 +16,13 @@ header:
       actor: Thierry Graff
       date: '2023-01-27' # 22:50:02+01:00
       action: Add to opengauquelin.org
+    -
+      actor: Thierry Graff
+      date: '2023-05-01' # 14:46:16+02:00
+      action: Change trust level to 4 "other document"
+  notes: |
+    This document shouldn't be stored in a BC.yml file as it doesn't concern a birth certificate.
+    <br>This will be changed when this case is handled by the Open Gauquelin database.
       
 opengauquelin:
  projects:
@@ -48,7 +55,6 @@ transcription:
       given: Marie Sophie
       family: Germain
   sex: F
-  
   birth:
     date: '1776-04-01'
     notime: true
@@ -58,6 +64,7 @@ transcription:
       c2: '75'
       
 extras:
+  trust: '4'
   name:
     given: Sophie
     family: Germain

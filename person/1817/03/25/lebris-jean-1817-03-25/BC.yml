@@ -10,15 +10,16 @@ header:
     -
       actor: Thierry Graff
       date: '2019-12-22' # 00:20:05+01:00
-      action: Locate, transcribe the act
+      action: Locate and transcribe the act
     -
       actor: Thierry Graff
       date: '2023-01-28' # 00:34:07+01:00
       action: Add to Open Gauquelin Database
+    -
+      actor: Thierry Graff
+      date: '2023-04-20' # 08:35:11+02:00
+      action: Update a change of URL in the civil registry
       
-opengauquelin:
- projects:
-   
 source:
   civil-registry:
     name: Naissances 1813 - 1822 3E 53/13
@@ -29,7 +30,6 @@ source:
     web: 
       url: https://recherche.archives.finistere.fr/viewer/series/medias/collections/E/03E/3E053/3E053_0013?img=FRAD029_1MIEC053_10_0383.jpg
       page: 53 / 133
-  
   document-creation:
     date: '1817-03-25'
     place: Concarneau
@@ -37,7 +37,7 @@ source:
 transcription:
   name:
     official:
-      given: LeBris
+      given: Le Bris
       family: Jean Marie
   sex: M
   
@@ -46,7 +46,7 @@ transcription:
     place:
       name: Concarneau
       cy: FR
-      c2: 29
+      c2: '29'
       
 extras:
   name:
