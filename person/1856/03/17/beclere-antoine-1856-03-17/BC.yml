@@ -1,0 +1,67 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2019-12-18' # 18:46:09+01:00
+      action: Locate and download the act   - muller-paris-medics
+    -
+      actor: Thierry Graff
+      date: '2023-01-31' # 20:58:41+01:00
+      action: Addition to opengauquelin.org
+    -
+      actor: Thierry Graff
+      date: '2023-05-01' # 14:47:14+02:00
+      action: Change trust level to 4 "other document"
+  notes: |
+    This document shouldn't be stored in a BC.yml file as it doesn't concern a birth certificate.
+    <br>This will be changed when this case is handled by the Open Gauquelin database.
+      
+opengauquelin:
+  projects:
+    - muller-paris-medics
+  fix-issues:
+    - beclere-antoine-1856-03-17--date
+   
+source:
+  civil-registry:
+    name: Naissances V3E/N 135
+    place: 
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '6'
+    web: 
+      url: archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMTktMTItMTgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NTtzOjQ6InJlZjIiO2k6Nzc0MTc7czoxNjoidmlzaW9ubmV1c2VfaHRtbCI7YjoxO3M6MjE6InZpc2lvbm5ldXNlX2h0bWxfbW9kZSI7czo0OiJwcm9kIjt9
+      page: 56 / 102
+  
+  notes: |
+    Original name of the image: archives_AD075ER_5MI20727_02261_C.JPG
+    <br>Birth time provided by Gauquelin can't be confirmed by the current act, which is normal for births in Paris at this date:
+    part of the Paris archives were destroyed in 1871 (events known as "La commune de Paris", some acts and their backups were burnt),
+    and acts prior to 1860 were lost.
+    <br>So we don't know how Gauquelin was able to find the birth hour.
+    <br>If someone knows, please <a href="/contact">contact us</a>.
+    
+transcription:
+  name:
+    official:
+      given: Louis Antoine Gustave
+      family: Béclère
+  sex: M
+  birth:
+    date: '1856-03-17'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '6'
+
+extras:
+  trust: '4'
