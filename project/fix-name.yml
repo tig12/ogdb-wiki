@@ -19,4 +19,10 @@ status: active
 name: Fix Name
 
 description: |
-  Fix issues related to names, in particular missing names of Gauquelin serie A2 - A6.
+  This project lists famous persons of the database without name.
+  This problem occurs for persons imported from Gauquelin files
+  <a href="/group/a2">A2 (scientists and medical doctors)</a>,
+  <a href="/group/a3">A3 (military men)</a>,
+  <a href="/group/a4">A4 (painters and French musicians)</a>,
+  <a href="/group/a5">A5 (actors and politicians)</a> and
+  <a href="/group/a6">A6 (writers and journalists)</a>.

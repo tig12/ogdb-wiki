@@ -1,0 +1,65 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2021-12-18' # 22:56:37+01:00
+      action: 'Locate and download the act'
+    -
+      actor: Thierry Graff
+      date: '2023-05-05' # 17:55:57+02:00
+      action: 'Transcribe the act and add to opengauquelin'
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - fix-date
+  fix-issues:
+    - sebert-hippolyte-1839-01-30--date-g55
+    
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: 1MI/ECA 667 R8 - VERBERIE - NMD - 1833-1852
+    place:
+      name: Verberie
+      cy: FR
+      c2: '60'
+    web:
+      url: https://ressources.archives.oise.fr/ark:/44803/g624c24a38e6874b6ef3d0c8687c787e3/ee93b59105acee2795243580e223a817/218/YWQ2MF8xbWllY2I2NjdyOF8wMjIwX2UuanBn
+      page: 218 / 681
+  document-creation:
+    date: '1839-01-31 12:00'
+    place: Verberie
+  notes: |
+    This birth certificate permits to solve a question: Gauquelin 1955 and <a href="/group/a2">file A2</a> have different birth times.
+    <br>The document shows that file A2 was correct.
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Sebert
+      given: Hyppolite
+    nobl: 
+  sex: M
+  birth:
+    date: '1839-01-30 15:00'
+    place:
+      name: Verberie
+      cy: FR
+      c2: '60'
+      
