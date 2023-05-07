@@ -1,0 +1,78 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2019-12-18' # 15:53:01+01:00
+      action: Locate and download the act
+    -
+      actor: Thierry Graff
+      date: '2023-05-06' # 14:09:45+02:00
+      action: Add to opengauquelin.org
+
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - muller-paris-medics
+  fix-issues:
+    - babinski-joseph-1857-11-17--date
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Naissances V3E/N 68
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+    web:
+      url: archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMTktMTItMTgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NTtzOjQ6InJlZjIiO2k6MTI2NTU7czoxNjoidmlzaW9ubmV1c2VfaHRtbCI7YjoxO3M6MjE6InZpc2lvbm5ldXNlX2h0bWxfbW9kZSI7czo0OiJwcm9kIjt9
+      page: 46 / 101
+  notes: |
+    <br>Birth time provided by Gauquelin can't be confirmed by the current act, which is normal for births in Paris at this date:
+    part of the Paris archives were destroyed in 1871 (events known as "La commune de Paris", some acts and their backups were burnt),
+    and acts prior to 1860 were lost.
+    <br>So we don't know how Gauquelin was able to find the birth hour.
+    <br>If someone knows, please <a href="/contact">contact us</a>.
+  images: 
+    - naissance.jpg
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Babinski
+      given: Joseph François Félix
+  sex: M
+  birth:
+    date: '1857-11-17'
+    notime: true
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  trust: '4'
+  name:
+    given: Joseph
+  

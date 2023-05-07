@@ -17,9 +17,11 @@ header:
       action: Add to opengauquelin.org
       
 opengauquelin:
- projects:
-   - muller-paris-medics
-   
+  projects:
+    - muller-paris-medics
+  fix-issues:
+    - balthazard-victor-1872-01-01--date
+  
 source:
   civil-registry:
     name: 1872 , Naissances , 11 V4E 3864
