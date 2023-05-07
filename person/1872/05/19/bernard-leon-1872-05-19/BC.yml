@@ -1,0 +1,67 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      date: '2019-12-18' # 19:19:45+01:00
+      actor: Thierry Graff
+      action: Locate and download the act
+    -
+      date: '2023-05-07' # 20:48:47+02:00
+      actor: Thierry Graff
+      action: Add to opengauquelin.org
+      
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - muller-paris-medics
+  fix-issues:
+    - bernard-leon-1872-05-19--date
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: 1872 , Naissances , 02 V4E 2594
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '2'
+    web: 
+      url: archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMTktMTItMTgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjEyNjY2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 3 / 31
+  document-creation:
+    date: '1872-05-21 14:00'
+    place: Paris
+  notes: |
+    This document permits to check a birth date collected by Gauquelin that Erno Müller couldn't check.
+    <br>It shows that Gauquelin data was correct.
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Bernard
+      given: Léon
+  sex: M
+  birth:
+    date: '1872-05-20 05:00'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '2'
