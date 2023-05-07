@@ -1,0 +1,76 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2019-12-18' # 20:00:18+01:00
+      action: Locate and download the act
+    -
+      actor: Thierry Graff
+      date: '2023-05-07' # 21:10:53+02:00
+      action: Add to opengauquelin.org
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - muller-paris-medics
+  fix-issues:
+    - bertrand-gabriel-1867-05-17--date
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: 1867 , Naissances , 05 V4E 579
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '5'
+    web:
+      url: archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMTktMTItMTgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjAxODYyO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 16 / 21
+  document-creation:
+    date: '1867-05-17 12:00'
+    place: Mairie du cinquième arrondissement
+  notes: |
+    This document permits to check a birth date collected by Gauquelin that Erno Müller couldn't check.
+    <br>It shows that Gauquelin data was correct.
+    <br>Born 146 rue Saint-Jacques
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Bertrand
+      given: Gabriel Emile
+  sex: 
+  birth:
+    date: '1867-05-17 10:00'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '5'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Gabriel
+  
