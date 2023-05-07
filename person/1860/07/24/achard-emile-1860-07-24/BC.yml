@@ -17,8 +17,10 @@ header:
       action: Addition to opengauquelin.org
       
 opengauquelin:
- projects:
-   - muller-paris-medics
+  projects:
+    - muller-paris-medics
+  fix-issues:
+    - achard-emile-1860-07-24--date
    
 source:
   civil-registry:
@@ -57,5 +59,4 @@ transcription:
 extras:
   name:
     given: Emile
-    family: Achard
   
