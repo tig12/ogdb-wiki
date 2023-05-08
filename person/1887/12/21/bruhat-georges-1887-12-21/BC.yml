@@ -1,0 +1,63 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-05-07' # 23:31:00+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Registre des naissances, 18871E832 Mémoire Vive patrimoine numérisé de Besançon
+    place:
+      name: Besançon
+      cy: FR
+      c2: '26'
+    web:
+      url: https://memoirevive.besancon.fr/ark:/48565/v213qgl90fbz/43aaea0e-f3a9-4b1f-82be-f5a6b435be33
+      page: 375 / 404
+  document-creation:
+    date: '1887-12-21 16:00'
+    place: Besançon
+  notes: |
+    Né 18 rue Ronchaux
+    <br>Original name of the image: 43aaea0e-f3a9-4b1f-82be-f5a6b435be33.jpg
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Bruhat
+      given: Georges Antoine Marie Louis
+  sex: M
+  birth:
+    date: '1887-12-21 10:30'
+    place:
+      name: Besançon
+      cy: FR
+      c2: '26'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Georges
+  occus: 
+    - physicist
+  
