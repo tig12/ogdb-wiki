@@ -63,6 +63,10 @@ transcription:
 extras:
   name:
     given: Gustave
+  ids-in-sources:
+    wd: Q476198
+  partial-ids:
+    wd: Q476198
   occus: 
     - mathematician
   

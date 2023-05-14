@@ -55,6 +55,10 @@ extras:
   name:
     given: Henri
     family: Lebesgue
+  ids-in-sources:
+    wd: Q206005
+  partial-ids:
+    wd: Q206005
   occus:
     - mathematician
   

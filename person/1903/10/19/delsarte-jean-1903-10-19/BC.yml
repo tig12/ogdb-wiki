@@ -54,6 +54,10 @@ extras:
   name:
       given: Jean
       family: Delsarte
+  ids-in-sources:
+    wd: Q726390
+  partial-ids:
+    wd: Q726390
   occus:
     - mathematician
   

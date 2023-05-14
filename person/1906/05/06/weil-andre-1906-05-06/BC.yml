@@ -57,6 +57,14 @@ extras:
   name:
     family: Weil
     given: André
+  ids-in-sources:
+    wd: 
+  partial-ids:
+    wd: 
+  ids-in-sources:
+    wd: Q323232
+  partial-ids:
+    wd: Q323232
   occus:
     - mathematician
   

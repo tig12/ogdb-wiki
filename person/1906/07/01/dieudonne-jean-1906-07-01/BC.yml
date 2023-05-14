@@ -54,6 +54,10 @@ extras:
   name:
     given: Jean
     family: Dieudonné
+  ids-in-sources:
+    wd: Q371957
+  partial-ids:
+    wd: Q371957
   occus:
     - mathematician
   

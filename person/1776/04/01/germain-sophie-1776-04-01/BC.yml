@@ -68,6 +68,10 @@ extras:
   name:
     given: Sophie
     family: Germain
+  ids-in-sources:
+    wd: Q7103
+  partial-ids:
+    wd: Q7103
   occus:
     - mathematician
   

@@ -48,5 +48,9 @@ extras:
   name:
     family: Galois
     given: Evariste
+  ids-in-sources:
+    wd: Q7091
+  partial-ids:
+    wd: Q7091
   occus:
     - mathematician
