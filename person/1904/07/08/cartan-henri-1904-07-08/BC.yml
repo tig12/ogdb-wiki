@@ -12,7 +12,7 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-05-14' # 15:33:04+02:00
+      date: '2023-05-15' # 00:34:16+02:00
       action: Locate the act and add to opengauquelin.org
     
 #
@@ -27,29 +27,29 @@ opengauquelin:
 #
 source:
   civil-registry:
-    name: Nancy-1854 - 1855-5 Mi 394/R 151
+    name: 1904, 12 avril-21 juillet. Cote:2 E 293
+    organism: Ville de Nancy, archives municipales
     place:
       name: Nancy
       cy: FR
       c2: '54'
     web:
-      url: https://archivesenligne.archives.cg54.fr/ark:33175/s0054ad10ec057d9/54ae3b618bf33.fiche=arko_fiche_62bc4dd2d197d.moteur=arko_default_62bc67565d099
-      page: 139 / 671
+      url: https://recherche-archives.nancy.fr/viewer/series/2_E/2_E_293
+      page: 179 / 203
   document-creation:
-    date: '1854-05-01 11:00'
-  notes: |
-    Original name of the image: depot-etat-civil-image-traitement-frad054-5mi394-r151-frad054-5mi394-r151-0139.jpg
+    date: '1904-07-09 15:00'
+  
 #
 # 4 - Transcription of the act
 #
 transcription:
   name:
     official:
-      family: Poincaré
-      given: Jules Henri
-  sex: M
+      family: Cartan
+      given: Henri Paul
+  sex: 
   birth:
-    date: '1854-04-29 01:00'
+    date: '1904-07-08 22:00'
     place:
       name: Nancy
       cy: FR
@@ -61,13 +61,11 @@ transcription:
 #
 extras:
   name:
-    family: Poincaré
     given: Henri
   ids-in-sources:
-    wd: Q81082
+    wd: Q164405
   partial-ids:
-    wd: Q81082
+    wd: Q164405
   occus: 
-    - astronomer
     - mathematician
   

@@ -44,7 +44,7 @@ transcription:
   sex: M
   
   birth:
-    date: '1896-04-09 16:00'
+    date: '1869-04-09 16:00'
     place:
       name: Dolomieu
       cy: FR
@@ -52,8 +52,7 @@ transcription:
       
 extras:
   name:
-    given: Cartan
-    family: Elie
+    given: Elie
   occus:
     - mathematician
   death:
@@ -63,4 +62,7 @@ extras:
       cy: FR
       c2: '75'
       c3: '14'
-  
+  ids-in-sources:
+    wd: Q274639
+  partial-ids:
+    wd: Q274639
