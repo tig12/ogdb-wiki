@@ -1,0 +1,74 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-05-14' # 16:59:18+02:00
+      action: Locate the act and add to opengauquelin.org
+  notes: |
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    organism: Archives départementales de la Moselle
+    name: Document 9NUM/180EC2  Naissances, mariages, décès. ( 1819-1828 ) 
+    place:
+      name: Dieuze
+      cy: FR
+      c2: '57'
+    web:
+      url: num.archives57.com/visualiseur/index.php/docnumViewer/calculHierarchieDocNum/1000225/605804:771365:1000225/1080/1920
+      page: 192 / 551
+  document-creation:
+    date: '1822-12-24 10:00'
+  notes: |
+    The birth time corresponds to the time given by Gauquelin, but this act is surprising:
+    As birth time, it mentions "né à l'instant" (= born right now). In general, birth time
+    and time of declaration of the birth are different.
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Hermite
+      given: Charles
+  sex: M
+  birth:
+    date: '1822-12-24 10:00'
+    place:
+      name: Dieuze
+      cy: FR
+      c2: '57'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  ids-in-sources:
+    wd: Q168401
+  partial-ids:
+    wd: Q168401
+  occus: 
+    - mathematician
+  

@@ -1,0 +1,71 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-05-14' # 15:33:04+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Nancy-1854 - 1855-5 Mi 394/R 151
+    place:
+      name: Nancy
+      cy: FR
+      c2: '54'
+    web:
+      url: https://archivesenligne.archives.cg54.fr/ark:33175/s0054ad10ec057d9/54ae3b618bf33.fiche=arko_fiche_62bc4dd2d197d.moteur=arko_default_62bc67565d099
+      page: 139 / 671
+  document-creation:
+    date: '1854-05-01 11:00'
+  notes: |
+    Original name of the image: depot-etat-civil-image-traitement-frad054-5mi394-r151-frad054-5mi394-r151-0139.jpg
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Poincaré
+      given: Jules Henri
+  sex: M
+  birth:
+    date: '1854-04-29 01:00'
+    place:
+      name: Nancy
+      cy: FR
+      c2: '54'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Henri
+  ids-in-sources:
+    wd: Q81082
+  partial-ids:
+    wd: Q81082
+  occus: 
+    - mathematician
+  
