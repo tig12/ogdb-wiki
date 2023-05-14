@@ -1,0 +1,72 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-05-14' # 11:26:23+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Archives de Paris, Actes de l'état civil reconstitué, Naissances 5Mi1 906 
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+    web:
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDUtMTQiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6Mzk7czo0OiJyZWYyIjtpOjMzOTg5MDtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=
+      page: 27 / 51
+  document-creation:
+    date: '1856-07-26 12:00'
+  notes: |
+    Original name of the image: archives_FRAD075AR_5Mi1_0906_00179.JPG
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Picard
+      given: Charles Emile
+  sex: M
+  birth:
+    date: '1856-07-24 20:00'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Emile
+  ids-in-sources:
+    wd: Q286375
+  partial-ids:
+    wd: Q286375
+  occus: 
+    - mathematician
+  
