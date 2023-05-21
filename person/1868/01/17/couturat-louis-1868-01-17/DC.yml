@@ -1,0 +1,55 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-05-17' # 22:42:13+02:00
+      action: Locate and download the act
+#
+# 3 - Informations about the act
+#
+act:
+  type: DC
+  licence: 
+  organism:
+    name: Archives départementales de l'Essone
+    url: https://archives.essonne.fr/
+  registry:
+    name: 4E/5244 RIS-ORANGIS. - Naissances, mariages, décès : registre d'état civil
+    web:
+      url: https://archives.essonne.fr/ark:/28047/469hg0p8vf7j/95ce7617-810d-4736-b1fa-81852441daf8
+      page: 34 / 46
+  creation-date: '1914-08-03 19:00'
+  notes: |
+    Original name of the image: 95ce7617-810d-4736-b1fa-81852441daf8.jpg
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Couturat
+      given: Louis Alexandre
+  sex: M
+  birth:
+    date: '1868-01-17'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+  death:
+    date: '1914-08-03 17:00'
+    place:
+      name: Ris-Orangis
+      cy: FR
+      c2: '92'
