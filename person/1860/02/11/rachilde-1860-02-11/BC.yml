@@ -40,8 +40,7 @@ source:
     date: '1860-02-12 13:00'
     place: Château-l'Évêque
   notes: |
-    Act n° 6
-    <br>Feuillet n° 4
+    Act n° 6, Feuillet n° 4
 
 #
 # 4 - Transcription of the act
@@ -67,12 +66,15 @@ transcription:
 extras:
   name:
     given: Marguerite
-    family: Eymery # to override wrong value 
+#    family: Eymery # to override wrong value 
     fame:
       full: Rachilde
-    spouse: Valette
-#    alter:
-#      - Jean de Childra
-#      - Jean de Chibra
+    spouse:
+      - Valette
+    alter:
+      - Jean de Childra
+      - Jean de Chibra
   ids-in-sources:
+    wd: Q2366473
+  partial-ids:
     wd: Q2366473

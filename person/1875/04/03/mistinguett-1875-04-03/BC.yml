@@ -16,12 +16,6 @@ header:
       action: Locate the act and add to opengauquelin.org
     
 #
-# 2 - Optional information related to opengauquelin database integration
-#
-opengauquelin:
-  old-slug: mistinguett-bourgeois-1875-04-03
-   
-#
 # 3 - Informations about the act
 #
 source:
