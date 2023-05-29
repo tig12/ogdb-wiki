@@ -12,13 +12,14 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-05-13' # 22:24:44+02:00
-      action: Locate the act and add to opengauquelin.org
+      date: '2023-05-28' # 22:40:25+02:00
+      action: Add to opengauquelin.org
     
 #
 # 2 - Optional information related to opengauquelin database integration
 #
 opengauquelin:
+  old-slug: valadon-marie-1865-09-23
   projects:
     - women
    
@@ -27,18 +28,17 @@ opengauquelin:
 #
 source:
   civil-registry:
-    name: 4E77-6 - 4E77-6 DECAZEVILLE N 1858/1858 - (23/05/1858 - 20/09/1858) 
+    name: 
     place:
-      name: Decazeville
+      name: Bessines-sur-Gartempe
       cy: FR
-      c2: '12'
+      c2: '87'
     web:
-      url: https://archives.aveyron.fr/ark:/11971/vta52de4523efc7b/daogrp/0#id:641412723
-      page: 29 / 40
+      url: https://archives.haute-vienne.fr/ark:52328/s0054ffebfea2f32/5592dc95575c3.fiche=arko_fiche_602b7f37e2316.moteur=arko_default_603517b8650b3
+      page: 37 / 122
   document-creation:
-    date: '1858-08-16 09:00'
+    date: '1865-09-23 16:00'
   notes: |
-    Act number 263
   
 #
 # 4 - Transcription of the act
@@ -46,15 +46,15 @@ source:
 transcription:
   name:
     official:
-      family: Calvet
-      given: Rosa Noémie Emma
-  sex: 
+      family: Valadon
+      given: Marie Clémentine
+  sex: F
   birth:
-    date: '1858-08-15 11:00'
+    date: '1865-09-23 06:00'
     place:
-      name: Decazeville
+      name: Bessines-sur-Gartempe
       cy: FR
-      c2: '12'
+      c2: '87'
       
 #
 # 5 - Supplementary informations concerning the new born person,
@@ -63,12 +63,9 @@ transcription:
 extras:
   name:
     fame:
-      family: Calvé
-      given: Emma
+      given: Suzanne
   ids-in-sources:
-    wd: Q452065
+    wd: Q156889
   partial-ids:
-    wd: Q452065
-  occus: 
-    - opera-singer
+    wd: Q156889
   
