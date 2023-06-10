@@ -1,0 +1,81 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: 2023-06-10 # 04:57:57+02:00
+      action: Locate and download the act
+  notes: |
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  old-slug: baccari-carlo-1878-10-22
+  projects:
+    - italian-writers
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Archivio di Stato di Frosinone - Cassino - 64 
+    place:
+      name: Cassino
+      cy: IT
+      c1: '07'
+      c2: FR
+      c3: '060019'
+      geoid: '3179781'
+    web:
+      url: https://antenati.cultura.gov.it/ark:/12657/an_ua36010496/wRg87X3
+      page: 32 / 46
+  notes: |
+    URL of the registry: <a href="https://antenati.cultura.gov.it/ark:/12657/an_ua36010496/w9V6EOx">antenati.cultura.gov.it/ark:/12657/an_ua36010496/w9V6EOx</a>
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Baccari
+      given: Carlo
+    nobl: 
+  sex: 
+  birth:
+    date: '1878-10-21'
+    notime: true
+    place:
+      name: Cassino
+      cy: IT
+      c1: '07'
+      c2: FR
+      c3: '060019'
+      geoid: '3179781'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  trust: '4'
+  ids-in-sources:
+    wd: Q3659032
+  partial-ids:
+    wd: Q3659032
+  occus: 
+    - journalist
+    - poet
+    # - notary
+  

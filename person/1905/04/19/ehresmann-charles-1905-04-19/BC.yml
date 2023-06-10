@@ -41,8 +41,6 @@ source:
       page: 376 / 493
   notes: |
     Birth time needs to be confirmed by someone able to read German.
-  images: 
-    - 
   
 #
 # 4 - Transcription of the act
@@ -54,7 +52,7 @@ transcription:
       family: Ehresmann
   sex: M
   birth:
-    date: '1905-04-29 17:00'
+    date: '1905-04-19 17:00'
     place:
       name: Strasbourg
       cy: FR
