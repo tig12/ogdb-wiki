@@ -21,6 +21,8 @@ header:
 #
 opengauquelin:
   old-slug: baccari-carlo-1878-10-22
+  fix-issues:
+    - baccari-carlo-1878-10-22--date
   projects:
     - italian-writers
    
@@ -36,7 +38,7 @@ source:
       c1: '07'
       c2: FR
       c3: '060019'
-      geoid: '3179781'
+      geoid: 3179781
     web:
       url: https://antenati.cultura.gov.it/ark:/12657/an_ua36010496/wRg87X3
       page: 32 / 46
@@ -62,7 +64,7 @@ transcription:
       c1: '07'
       c2: FR
       c3: '060019'
-      geoid: '3179781'
+      geoid: 3179781
       
 #
 # 5 - Supplementary informations concerning the new born person,
