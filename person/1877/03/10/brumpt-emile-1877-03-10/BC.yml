@@ -1,0 +1,78 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-12' # 23:09:55+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - muller-paris-medics
+  fix-issues:
+    - brumpt-emile-1877-03-10--date
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Archives de Paris, 1877 , Naissances , 16 V4E 4676 
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '16'
+    web:
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDctMTIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjIzOTAzO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 12 / 31
+  document-creation:
+    date: '1877-03-13 15:45'
+  notes: |
+    Original name of the image: archives_AD075EC_V4E_04676_0045.JPG
+    <br>This person is part of physicians born in Paris that Arno Müller couldn't check in 1994 (see details on <a href="https://tig12.github.io/g5/muller5-1083-medics.html#fix-paris">tig12.github.io/g5</a>).
+    <br>Comparison with birth certificate shows that Gauquelin birth time was erroneous: the birth hour is not 08:00 but 20:00 ("né le 10 de ce mois à huit heures du soir").
+    <br>The arrondissement could be found thanks to the copy of the birth certificate found in <a href="https://www.leonore.archives-nationales.culture.gouv.fr/ui/notice/58229">the Léonore database</a>.
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Brumpt
+      given: Alexandre Joseph Emile
+  sex: M
+  birth:
+    date: '1877-03-10 20:00'
+    notime:
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '16'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Emile
+  ids-in-sources:
+    wd: Q3588379
+  partial-ids:
+    wd: Q3588379
+  

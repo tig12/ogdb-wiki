@@ -1,0 +1,83 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-01' # 22:05:29+02:00
+      action: Locate the act and add to opengauquelin.org
+  notes: |
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - muller-paris-medics
+  fix-issues:
+    - brocq-rousseu-denis-1869-10-17--date
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: 1869 , Naissances , 07 V4E 847 
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '7'
+    web:
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDctMDEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjAzMzI2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 25 / 31
+  document-creation:
+    date: '1869-10-18 15:00'
+    place: Paris
+  notes: |
+    This person is part of physicians born in Paris that Arno Müller couldn't check in 1994 (see details on <a href="https://tig12.github.io/g5/muller5-1083-medics.html#fix-paris">tig12.github.io/g5</a>).
+    <br>Comparison with birth certificate shows that Gauquelin birth time was correct.
+    <br>Born 74 rue de Sèvre
+    <br>Original name of the image: archives_AD075EC_V4E_00847_0088.JPG
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Brocq-Rousseu
+      given: Denis
+  sex: M
+  birth:
+    date: '1869-10-17 17:00'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '7'
+  death:
+    date: '1950-01-22'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '14'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  ids-in-sources:
+    wd: Q30303584
+  partial-ids:
+    wd: Q30303584
+  
