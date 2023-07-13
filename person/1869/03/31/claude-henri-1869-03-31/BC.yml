@@ -12,7 +12,7 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-07-12' # 23:09:55+02:00
+      date: '2023-07-12' # 23:55:29+02:00
       action: Locate the act and add to opengauquelin.org
     
 #
@@ -22,29 +22,29 @@ opengauquelin:
   projects:
     - muller-paris-medics
   fix-issues:
-    - brumpt-emile-1877-03-10--date
+    - claude-henri-1869-03-31--date
    
 #
 # 3 - Informations about the act
 #
 source:
   civil-registry:
-    name: Archives de Paris, 1877 , Naissances , 16 V4E 4676 
+    name: Archives de Paris, 1869 , Naissances , 02 V4E 184
     place:
       name: Paris
       cy: FR
       c2: '75'
-      c3: '16'
+      c3: '2'
     web:
-      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDctMTIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjIzOTAzO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
-      page: 12 / 31
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDctMTIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MTk5NTUxO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 27 / 31
   document-creation:
-    date: '1877-03-13 15:45'
+    date: '1869-04-03 12:00'
   notes: |
-    Original name of the image: archives_AD075EC_V4E_04676_0045.JPG
+    Original name of the image: archives_AD075EC_V4E_00184_0087.JPG
     <br>This person is part of physicians born in Paris that Arno Müller couldn't check in 1994 (see details on <a href="https://tig12.github.io/g5/muller5-1083-medics.html#fix-paris">tig12.github.io/g5</a>).
-    <br>Comparison with birth certificate shows that Gauquelin birth time was erroneous: the birth hour is not 08:00 but 20:00 ("né le 10 de ce mois à huit heures du soir").
-    <br>The arrondissement could be found thanks to the copy of the birth certificate found in <a href="https://www.leonore.archives-nationales.culture.gouv.fr/ui/notice/58229">the Léonore database</a>.
+    <br>Comparison with birth certificate shows that Gauquelin birth time was correct.
+    <br>The arrondissement could be found thanks to <a href="https://fr.wikipedia.org/wiki/Henri_Claude">Wikipedia</a>.
   
 #
 # 4 - Transcription of the act
@@ -52,17 +52,16 @@ source:
 transcription:
   name:
     official:
-      family: Brumpt
-      given: Alexandre Joseph Emile
+      family: Claude
+      given: Henri Charles Jules
   sex: M
   birth:
-    date: '1877-03-10 20:00'
-    date-ut: '1877-03-10 19:50:40'
+    date: '1869-03-31 19:00'
     place:
       name: Paris
       cy: FR
       c2: '75'
-      c3: '16'
+      c3: '2'
       
 #
 # 5 - Supplementary informations concerning the new born person,
@@ -70,9 +69,9 @@ transcription:
 #
 extras:
   name:
-    given: Emile
+    given: Henri
   ids-in-sources:
-    wd: Q3588379
+    wd: Q1339057
   partial-ids:
-    wd: Q3588379
+    wd: Q1339057
   
