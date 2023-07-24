@@ -1,0 +1,69 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-24' # 01:09:03+02:00
+      action: Locate the act and add to opengauquelin.org
+
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: 2Z 241 - Chantenay sur Loire Naissances 1906 
+    place:
+      name: Nantes
+      cy: FR
+      c2: '44'
+    web:
+      url: https://archives-numerisees.nantes.fr/v2/am441/visualiseur/etatcivil.html?id=451014129
+      page: 124 / 144
+  document-creation:
+    date: '1906-11-08 15:30'
+    place: Nantes
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Leray
+      given: Jean
+  sex: M
+  birth:
+    date: '1906-11-07 14:00'
+    place:
+      name: Chantenay-sur-Loire
+      cy: FR
+      c2: '44'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  ids-in-sources:
+    wd: Q441143
+  partial-ids:
+    wd: Q441143
+  occus: 
+    - mathematician
+  

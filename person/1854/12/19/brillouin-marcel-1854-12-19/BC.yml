@@ -1,0 +1,73 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-24' # 08:40:39+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Saint-Martin-lès-Melle - Naissances - (1833-1862) - 4 E 286/2
+    place:
+      name: Saint-Martin-lès-Melle
+      cy: FR
+      c2: '79'
+    web:
+      url: https://archives-deux-sevres-vienne.fr/ark:/58825/vta18c47cc4049c253a/daogrp/0/91
+      page: 91 / 133
+  document-creation:
+    date: '1854-12-19 16:00'
+    place: Saint-Martin-lès-Melle
+  notes: |
+    Original name of the image: FRAD079_4E_0286_00002_0091.jpg
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Brillouin
+      given: Louis Marcel
+  sex: M
+  birth:
+    date: '1854-12-19 03:00'
+    place:
+      name: Saint-Martin-lès-Melle
+      cy: FR
+      c2: '79'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Marcel
+  ids-in-sources:
+    wd: Q983395
+  partial-ids:
+    wd: Q983395
+  occus: 
+    - mathematician
+    - physicist
+  
