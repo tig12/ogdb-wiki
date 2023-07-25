@@ -1,0 +1,67 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-25' # 01:24:26+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Lille, registres des naissances - 7E/212 - du 14 août au 19 octobre 1870
+    place:
+      name: Lille
+      cy: FR
+      c2: '59'
+    web:
+      url: https://archives.lille.fr/ark:/74900/a011422463141eAiDCh/bcf6335573
+      page: 180 / 252
+  document-creation:
+    date: '1870-10-01 10:00'
+    place: Lille
+  notes: |
+    Original name of the image: FRAM059350_7E_0212/FRAM059350_7E_0212_0181.jpg
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Perrin
+      given: Jean Baptiste
+  sex: M
+  birth:
+    date: '1870-09-30 19:30'
+    place:
+      name: Lille
+      cy: FR
+      c2: '59'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Jean
+  ids-in-sources:
+    wd: Q134085
+  partial-ids:
+    wd: Q134085
+  occus: 
+    - physicist
+    - chemist
+  
