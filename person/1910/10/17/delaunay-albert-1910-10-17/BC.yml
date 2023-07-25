@@ -1,0 +1,70 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-25' # 09:20:53+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  old-slug: delaunay-albsrt-1910-10-17
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Mortagne-sur-Sèvre Naissances 1910 AC151
+    place:
+      name: Mortagne-sur-Sèvre
+      cy: FR
+      c2: '85'
+    web:
+      url: https://etatcivil-archives.vendee.fr/ark:/22574/s005dfa2d8f1b816/5e21689435c15
+      page: 10 / 14
+  document-creation:
+    date: '1910-10-18 08:00'
+    place: Mortagne-sur-Sèvre
+  notes: |
+    Original name of the image: archives_151n4_1910_0010.jpg
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Delaunay
+      given: Albert Félicien Marie
+  sex: M
+  birth:
+    date: '1910-10-17 21:15'
+    place:
+      name: Mortagne-sur-Sèvre
+      cy: FR
+      c2: '85'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Albert
+  ids-in-sources:
+    wd: Q55239089
+  partial-ids:
+    wd: Q55239089
+  

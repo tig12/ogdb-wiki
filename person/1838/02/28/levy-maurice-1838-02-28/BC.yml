@@ -1,0 +1,66 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-25' # 10:21:42+02:00
+      action: Locate the act and add to opengauquelin.org
+  notes: |
+    
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Ribeauville , Naissances 1836-1844  
+    place:
+      name: Ribeauville
+      cy: FR
+      c2: '68'
+    web:
+      url: https://archives.haut-rhin.fr/ark:/naan/a011455803239C6aDTQ/e4ac80ade3
+      page: 111 / 468
+  document-creation:
+    date: '1838-02-28 12:00'
+    place: Ribeauville
+  notes: |
+    Original name of the image: FRAD068_EC_5MI405_14_01_0111.jpg
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Levy
+      given: Maurice
+  sex: M
+  birth:
+    date: '1838-02-28 01:00'
+    place:
+      name: Ribeauville
+      cy: FR
+      c2: '68'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  ids-in-sources:
+    wd: Q1353064
+  partial-ids:
+    wd: Q1353064
+  occus: 
+    - engineer
+    - mathematician
+  

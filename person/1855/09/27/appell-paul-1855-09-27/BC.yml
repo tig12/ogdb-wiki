@@ -1,0 +1,72 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-25' # 03:13:03+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  old-slug: appeil-paul-1855-09-27
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Strasbourg - Etat civil - Registre de naissances 1855
+    place:
+      name: Strasbourg
+      cy: FR
+      c2: '67'
+    web:
+      url: https://archives.bas-rhin.fr/detail-document/ETAT-CIVIL-C478-P1-R293242#visio/page:ETAT-CIVIL-C478-P1-R293242-3436377
+      page: 37 / 79
+  document-creation:
+    date: '1855-09-27 10:00'
+    place: Strasbourg
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Appell
+      given: Paul Emile
+  sex: 
+  birth:
+    date: '1855-09-27 07:00'
+    place:
+      name: Strasbourg
+      cy: FR
+      c2: '67'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Paul
+  ids-in-sources:
+    wd: Q715906
+  partial-ids:
+    wd: Q715906
+  occus: 
+    - mathematician
+  
