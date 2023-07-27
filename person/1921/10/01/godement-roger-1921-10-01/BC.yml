@@ -12,34 +12,31 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-07-25' # 10:44:12+02:00
+      date: '2023-07-28' # 00:21:18+02:00
       action: Locate the act and add to opengauquelin.org
-      
+    
 #
 # 2 - Optional information related to opengauquelin database integration
 #
 opengauquelin:
-  old-slug: boussinesq-valentin-1842-03-13
   projects:
     - french-math
-  
+   
 #
 # 3 - Informations about the act
 #
 source:
   civil-registry:
-    name: Saint-André-de-Sangonis Naissances 1833-1850 - 5 MI 32/23
+    name: Le Havre Naissances 4 E 20041
     place:
-      name: Saint-André-de-Sangonis 
+      name: Le Havre
       cy: FR
-      c2: '34'
+      c2: '76'
     web:
-      url: https://archives-pierresvives.herault.fr/ark:/37279/vta82e4cafeaad7cf70/daogrp/0/99
-      page: 99 / 198
+      url: https://www.archivesdepartementales76.net/ark:/50278/d6394c2e130f003b5a0ed17d32969ba5/dao/0/265
+      page: 265 / 279
   document-creation:
-    date: '1842-03-13 12:00'
-  notes: |
-    Document original conservé aux Archives départementales de l'Hérault sous la cote 3 E 248/6
+    date: '1921-10-02 11:00'
   
 #
 # 4 - Transcription of the act
@@ -47,26 +44,27 @@ source:
 transcription:
   name:
     official:
-      family: Boussinesq
-      given: Valentin Joseph
+      family: Godement
+      given: Roger Jean Henri
   sex: M
   birth:
-    date: '1842-03-13 01:00'
+    date: '1921-10-01 00:30'
     place:
-      name: Saint-André-de-Sangonis 
+      name: Le Havre
       cy: FR
-      c2: '34'
+      c2: '76'
       
 #
 # 5 - Supplementary informations concerning the new born person,
 #     but not present in the birth certificate
 #
 extras:
+  name:
+    given: Roger
   ids-in-sources:
-    wd: Q121108
+    wd: Q930720
   partial-ids:
-    wd: Q121108
+    wd: Q930720
   occus: 
     - mathematician
-    - physicist
   

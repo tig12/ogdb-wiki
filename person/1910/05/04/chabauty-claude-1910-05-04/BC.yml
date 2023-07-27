@@ -12,34 +12,31 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-07-25' # 10:44:12+02:00
+      date: '2023-07-27' # 23:22:41+02:00
       action: Locate the act and add to opengauquelin.org
-      
+    
 #
 # 2 - Optional information related to opengauquelin database integration
 #
 opengauquelin:
-  old-slug: boussinesq-valentin-1842-03-13
   projects:
     - french-math
-  
+   
 #
 # 3 - Informations about the act
 #
 source:
   civil-registry:
-    name: Saint-André-de-Sangonis Naissances 1833-1850 - 5 MI 32/23
+    name: ANOM Algérie ORAN 1910
     place:
-      name: Saint-André-de-Sangonis 
-      cy: FR
-      c2: '34'
+      name: Oran
+      cy: DZ
+      c1: '09'
     web:
-      url: https://archives-pierresvives.herault.fr/ark:/37279/vta82e4cafeaad7cf70/daogrp/0/99
-      page: 99 / 198
+      url: http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=ALGERIE&registre=39006
+      page: 361 / 927
   document-creation:
-    date: '1842-03-13 12:00'
-  notes: |
-    Document original conservé aux Archives départementales de l'Hérault sous la cote 3 E 248/6
+    date: '1910-05-07 15:30'
   
 #
 # 4 - Transcription of the act
@@ -47,26 +44,27 @@ source:
 transcription:
   name:
     official:
-      family: Boussinesq
-      given: Valentin Joseph
+      family: Chabauty
+      given: Claude Gilbert
   sex: M
   birth:
-    date: '1842-03-13 01:00'
+    date: '1910-05-04 18:00'
     place:
-      name: Saint-André-de-Sangonis 
-      cy: FR
-      c2: '34'
+      name: Oran
+      cy: DZ
+      c1: '09'
       
 #
 # 5 - Supplementary informations concerning the new born person,
 #     but not present in the birth certificate
 #
 extras:
+  name:
+    given: Claude
   ids-in-sources:
-    wd: Q121108
+    wd: Q1096561
   partial-ids:
-    wd: Q121108
+    wd: Q1096561
   occus: 
     - mathematician
-    - physicist
   

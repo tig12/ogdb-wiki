@@ -17,6 +17,13 @@ header:
   notes: |
     
 #
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - french-math
+   
+#
 # 3 - Informations about the act
 #
 source:

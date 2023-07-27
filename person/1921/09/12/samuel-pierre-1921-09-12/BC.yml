@@ -12,34 +12,32 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-07-25' # 10:44:12+02:00
+      date: '2023-07-27' # 23:45:00+02:00
       action: Locate the act and add to opengauquelin.org
-      
+    
 #
 # 2 - Optional information related to opengauquelin database integration
 #
 opengauquelin:
-  old-slug: boussinesq-valentin-1842-03-13
   projects:
     - french-math
-  
+   
 #
 # 3 - Informations about the act
 #
 source:
   civil-registry:
-    name: Saint-André-de-Sangonis Naissances 1833-1850 - 5 MI 32/23
+    name: Archives de Paris 16 Naissances 16N 127_2
     place:
-      name: Saint-André-de-Sangonis 
+      name: Paris
       cy: FR
-      c2: '34'
+      c2: '75'
+      c3: '16'
     web:
-      url: https://archives-pierresvives.herault.fr/ark:/37279/vta82e4cafeaad7cf70/daogrp/0/99
-      page: 99 / 198
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDctMjciO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MzA1MjYxO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 17 / 31
   document-creation:
-    date: '1842-03-13 12:00'
-  notes: |
-    Document original conservé aux Archives départementales de l'Hérault sous la cote 3 E 248/6
+    date: '1921-09-15 11:55'
   
 #
 # 4 - Transcription of the act
@@ -47,15 +45,16 @@ source:
 transcription:
   name:
     official:
-      family: Boussinesq
-      given: Valentin Joseph
+      family: Samuel
+      given: Pierre
   sex: M
   birth:
-    date: '1842-03-13 01:00'
+    date: '1921-09-12 21:00'
     place:
-      name: Saint-André-de-Sangonis 
+      name: Paris
       cy: FR
-      c2: '34'
+      c2: '75'
+      c3: '16'
       
 #
 # 5 - Supplementary informations concerning the new born person,
@@ -63,10 +62,9 @@ transcription:
 #
 extras:
   ids-in-sources:
-    wd: Q121108
+    wd: Q1384888
   partial-ids:
-    wd: Q121108
+    wd: Q1384888
   occus: 
     - mathematician
-    - physicist
   
