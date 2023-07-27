@@ -58,7 +58,7 @@ transcription:
 #     but not present in the birth certificate
 #
 extras:
-  trust: 4
+  trust: '4'
   name:
     given: Charles
   ids-in-sources:
