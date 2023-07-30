@@ -1,0 +1,70 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-07-30' # 13:14:57+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Le Havre, Naissances 01/01/1870-30/06/1870, 4 E 8828
+    place:
+      name: Le Havre
+      cy: FR
+      c2: '76'
+    web:
+      url: https://www.archivesdepartementales76.net/ark:/50278/7c59edf074ec7250f43017ff46e39464/dao/0/139
+      page: 139 / 385
+  document-creation:
+    date: '1870-03-11 14:45'
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Bachelier
+      given: Louis Jean-Baptiste Alphonse
+  sex: M
+  birth:
+    date: '1870-03-11 04:00'
+    place:
+      name: Le Havre
+      cy: FR
+      c2: '76'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Louis
+  ids-in-sources:
+    wd: Q560823
+  partial-ids:
+    wd: Q560823
+  occus: 
+    - mathematician
+  

@@ -50,7 +50,10 @@ transcription:
 extras:
   name:
     given: Emile
-    family: Borel
   occus:
     - mathematician
+  ids-in-sources:
+    wd: Q154356
+  partial-ids:
+    wd: Q154356
   

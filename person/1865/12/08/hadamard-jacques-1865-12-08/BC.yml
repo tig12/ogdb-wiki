@@ -54,7 +54,9 @@ transcription:
 extras:
   name:
     given: Jacques
-    family: Hadamard
-  
   occus:
     - mathematician
+  ids-in-sources:
+    wd: Q164425
+  partial-ids:
+    wd: Q164425
