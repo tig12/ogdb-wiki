@@ -1,0 +1,5 @@
+Contains data used at the same time to import new persons in the database and rank them by eminence.
+
+Handled by g5 code in src/commands/wiki/import
+
+Not yet operational
