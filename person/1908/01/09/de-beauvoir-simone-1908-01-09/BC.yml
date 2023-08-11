@@ -1,0 +1,80 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-08-10' # 19:55:34+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  old-slug: beauvoir-simone-1908-01-09
+  projects:
+    - women
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Archives de Paris 1908, Naissances, 06 6N 246
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '6'
+    web:
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDgtMTAiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6Mjg0MTI0O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 15 / 31
+  document-creation:
+    date: '1908-01-11 09:00'
+  notes: |
+    Birth time given by Müller (04:00) was erroneous
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Bertrand de Beauvoir
+      given: Simone Lucie Ernestine Marie
+  sex: F
+  birth:
+    date: '1908-01-09 04:30'
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '6'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  birth:
+    # necessary to correct cura.free.fr hour
+    date-ut: '1908-01-09 04:20:39'
+  name:
+    family: de Beauvoir
+    given: Simone
+  ids-in-sources:
+    wd: Q7197
+  partial-ids:
+    wd: Q7197
+  occus: 
+    - philosopher
+    - feminist
+  
