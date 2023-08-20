@@ -3,8 +3,17 @@ Contents of this directory is filled by program, not by users.
 
 Permits a creation of the database from scratch.
 
-File actions.txt contains a list of actions to execute modifications of the database using the wiki system.
-Format is what;action;slug
-See src/commands/wiki/bc/add.php
+File actions.txt
+----------------------------------------------------------------------------------------------------
+Contains a list of actions to execute modifications of the database using the wiki system.
+See
+    src/model/wiki/Wiki.php
+    src/commands/wiki/bc/add.php
 
-The actions must be executed sequentially, in the order they appear in the file.
+Format: actions.txt is basically a csv file.
+Each line contains:
+what;action;slug
+
+But lines starting by # are ignored
+
+The actions are executed sequentially, in the order they appear in the file.
