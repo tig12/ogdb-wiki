@@ -1,0 +1,74 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-08-22' # 19:59:44+02:00
+      action: Locate the act and add to opengauquelin.org
+  notes: |
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Archives de Paris, Naissances 1868 , 09 V4E 1042 
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '9'
+    web:
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDgtMjIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjA0MzQ5O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 21 / 31
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Couturat
+      given: Louis Alexandre
+  sex: M
+  birth:
+    date: '1868-01-17 22:00'
+    notime:
+    place:
+      name: Paris
+      cy: FR
+      c2: '75'
+      c3: '9'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Louis
+  ids-in-sources:
+    wd: Q20724
+  partial-ids:
+    wd: Q20724
+  occus: 
+    - mathematician
+    - philosopher
+    - logician
+  
