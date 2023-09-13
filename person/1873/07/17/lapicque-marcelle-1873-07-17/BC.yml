@@ -12,14 +12,13 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-08-11' # 11:53:26+02:00
+      date: '2023-08-23' # 23:41:55+02:00
       action: Locate the act and add to opengauquelin.org
     
 #
 # 2 - Optional information related to opengauquelin database integration
 #
 opengauquelin:
-  old-slug: bruchollerie-monique-de-la-1915-04-20
   projects:
     - women
    
@@ -28,17 +27,17 @@ opengauquelin:
 #
 source:
   civil-registry:
-    name: Archives de Paris 1915, Naissances, 08 8N 169
+    name: Archives de Paris, Naissances 17e, cote V4E 4737 
     place:
       name: Paris
       cy: FR
       c2: '75'
-      c3: '8'
+      c3: '17'
     web:
-      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDgtMTEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MzAyMzYzO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
-      page: 25 / 31
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDgtMjMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjI0MjA3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 29 / 31
   document-creation:
-    date: '1915-04-23 14:30'
+    date: '1873-07-20 10:30'
   
 #
 # 4 - Transcription of the act
@@ -46,16 +45,17 @@ source:
 transcription:
   name:
     official:
-      family: Yver de la Bruchollerie
-      given: Monique Adrienne Marie
+      family: Heredia
+      given: Marcelle
+    nobl: de
   sex: F
   birth:
-    date: '1915-04-20 06:35'
+    date: '1873-07-17 05:00'
     place:
       name: Paris
       cy: FR
       c2: '75'
-      c3: '8'
+      c3: '17'
       
 #
 # 5 - Supplementary informations concerning the new born person,
@@ -63,12 +63,14 @@ transcription:
 #
 extras:
   name:
-    family: de la Bruchollerie
-    given: Monique
+    spouse:
+      - Lapicque
+    fame: 
+      family: Lapicque
   ids-in-sources:
-    wd: Q446145
+    wd: Q21055169
   partial-ids:
-    wd: Q446145
+    wd: Q21055169
   occus: 
-    - pianist
+    - physiologist
   

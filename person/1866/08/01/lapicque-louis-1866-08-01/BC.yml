@@ -1,0 +1,67 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2023-08-23' # 17:50:42+02:00
+      action: Locate the act and add to opengauquelin.org
+    
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: Archives départementales des Vosges, cote 4E162/20-27743
+    place:
+      name: Epinal
+      cy: FR
+      c2: '88'
+    web:
+      url: https://recherche-archives.vosges.fr/ark:/50275/vta55b4ee4ce896b/daogrp/0/3
+      page: 3 / 38
+  document-creation:
+    date: '1868-08-02 10:00'
+  images: 
+    - BC1.jpg
+    - BC2.jpg
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Lapicque
+      given: Louis Edouard
+  sex: M
+  birth:
+    date: '1868-08-01 14:00'
+    place:
+      name: Epinal
+      cy: FR
+      c2: '88'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Louis
+  ids-in-sources:
+    wd: Q3262439
+  partial-ids:
+    wd: Q3262439
+  occus: 
+    - anthropologist
+    - physiologist
+  

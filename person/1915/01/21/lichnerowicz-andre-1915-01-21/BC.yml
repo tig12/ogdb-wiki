@@ -12,33 +12,31 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-08-11' # 11:53:26+02:00
+      date: '2023-08-29' # 13:02:56+02:00
       action: Locate the act and add to opengauquelin.org
     
 #
 # 2 - Optional information related to opengauquelin database integration
 #
 opengauquelin:
-  old-slug: bruchollerie-monique-de-la-1915-04-20
   projects:
-    - women
+    - french-math
    
 #
 # 3 - Informations about the act
 #
 source:
   civil-registry:
-    name: Archives de Paris 1915, Naissances, 08 8N 169
+    name: Archives de l'Allier, 2 E 35 41, BOURBON-L'ARCHAMBAULT, ND, 1913-1922
     place:
-      name: Paris
+      name: Bourbon-l'Archambault
       cy: FR
-      c2: '75'
-      c3: '8'
+      c2: '03'
     web:
-      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDgtMTEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MzAyMzYzO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
-      page: 25 / 31
+      url: https://archives.allier.fr/ark:84133/1edbdbf35df660c8ba770050568b525d.fiche=arko_fiche_6171442210a3c.moteur=arko_default_5f992f52cfc55
+      page: 24 / 292
   document-creation:
-    date: '1915-04-23 14:30'
+    date: '1915-01-23 10:00'
   
 #
 # 4 - Transcription of the act
@@ -46,16 +44,15 @@ source:
 transcription:
   name:
     official:
-      family: Yver de la Bruchollerie
-      given: Monique Adrienne Marie
-  sex: F
+      family: Lichnerowicz
+      given: Léon Jean Maurice André
+  sex: M
   birth:
-    date: '1915-04-20 06:35'
+    date: '1915-01-21 10:00'
     place:
-      name: Paris
+      name: Bourbon-l'Archambault
       cy: FR
-      c2: '75'
-      c3: '8'
+      c2: '03'
       
 #
 # 5 - Supplementary informations concerning the new born person,
@@ -63,12 +60,11 @@ transcription:
 #
 extras:
   name:
-    family: de la Bruchollerie
-    given: Monique
+    given: André
   ids-in-sources:
-    wd: Q446145
+    wd: Q520942
   partial-ids:
-    wd: Q446145
+    wd: Q520942
   occus: 
-    - pianist
+    - mathematician
   
