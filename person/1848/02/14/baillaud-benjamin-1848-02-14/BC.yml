@@ -1,0 +1,62 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2024-01-11' # 15:09:07+02:00
+      action: Locate the act and add to opengauquelin.org
+  notes: |
+    
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: 5 E 76/183
+    place:
+      name: Chalon-sur-Saône
+      cy: FR
+      c2: '71'
+    web:
+      url: https://www.archives71.fr/ark:60535/s005139984465f10/5139d72a29c5c.fiche=arko_fiche_6231688933d0e.moteur=arko_default_61b1ccdceb9a7
+      page: 14 / 122
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Baillaud
+      given: Edouard Benjamin
+  sex: M
+  birth:
+    date: '1848-02-14 22:00'
+    place:
+      name: Chalon-sur-Saône
+      cy: FR
+      c2: '71'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Benjamin
+  ids-in-sources:
+    wd: Q543240
+  partial-ids:
+    wd: Q543240
+  occus: 
+    - astronomer
+  

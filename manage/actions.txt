@@ -75,3 +75,6 @@ bc;add;lapicque-marcelle-1873-07-17
 bc;add;weil-simone-1909-02-03
 bc;add;lichnerowicz-andre-1915-01-21
 bc;add;joliot-curie-irene-1897-09-12
+bc;add;bicquard-1901-08-30
+bc;add;barrillon-emile-1879-04-01
+bc;add;baillaud-benjamin-1848-02-14
