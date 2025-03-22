@@ -1,0 +1,75 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: 2025-03-22 # 22:12:58+02:00
+      action: Locate the act and integrate to opengauquelin.org
+  notes: |
+    
+#
+# 2 - Optional information related to opengauquelin database integration
+#
+opengauquelin:
+  old-slug:
+  projects:
+    - french-math
+   
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: LILLE / N [1923-08-11 - 1923-11-06] Cote 3 E 15141 
+    place:
+      name: Lille
+      cy: FR
+      c2: '59'
+    web:
+      url: https://archivesdepartementales.lenord.fr/ark:/33518/r8mbwvn7qd6p/01d79d44-b64a-49fe-a43d-9a64610c1f06
+      page: 172 /287
+  document-creation:
+    date: '1923-12-29 15:00'
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Bruhat
+      given: Yvonne, Suzanne, Marie-Louise
+  sex: F
+  birth:
+    date: '1923-12-29 15:00'
+    place:
+      name: Lille
+      cy: FR
+      c2: '59'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    fame:
+      family: Choquet-Bruhat
+      given: Yvonne
+  ids-in-sources:
+    wd: Q461112
+  partial-ids:
+    wd: Q461112
+  occus: 
+    - mathematician
+    - physicist
+    
