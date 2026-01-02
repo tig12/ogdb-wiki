@@ -1,0 +1,71 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+# Note : This structure is used to add a new person AND associate a BC through a g5 command.
+# It is different from the structure used in opengauquelin web application,
+# where the addition of a BC is distinct from the addition of a person
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2025-12-31' # 10:05:33+01:00
+      action: Add BC to opengauquelin
+    
+#
+# 3 - Informations about the act
+#
+source:
+  civil-registry:
+    name: PERPIGNAN Registres de naissance 1921 - 9NUM2E5087
+    place:
+      name: Perpignan
+      cy: FR
+      c2: '66'
+    web:
+      url: archives.cd66.fr/mdr/index.php/docnumViewer/calculHierarchieDocNum/373870/322715:328312:328314:373870/1080/1920
+      page: 60 / 195
+  document-creation:
+    date: '1921-05-12 14:00'
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Marill
+      given: René
+  sex: M
+  birth:
+    date: '1921-05-10 11:30'
+    place:
+      name: Perpignan
+      cy: FR
+      c2: '66'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    fame:
+      family: Marill Albérès
+    alter: 
+      - R. M. Albérès
+  ids-in-sources:
+    wd: Q55672180
+  partial-ids:
+    wd: Q55672180
+  occus: 
+    - literary-critic
+    - journalist
+  
