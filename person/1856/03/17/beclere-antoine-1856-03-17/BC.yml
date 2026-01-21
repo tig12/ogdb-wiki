@@ -64,4 +64,6 @@ transcription:
       c3: '6'
 
 extras:
+  name:
+    given: Antoine
   trust: '4'

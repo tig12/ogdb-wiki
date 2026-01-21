@@ -12,26 +12,24 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-05-21' # 11:50:45+02:00
+      date: '2023-09-14' # 01:07:55+02:00
       action: Locate the act and add to opengauquelin.org
+  notes: |
     
 #
 # 3 - Informations about the act
 #
 source:
   civil-registry:
-    name: 3 E 59 6 - 1873-1878
+    name: Archives de Paris 1900, Naissances, V4E 10061
     place:
-      name: Enghien-les-Bains
+      name: Paris
       cy: FR
-      c2: '95'
+      c2: '75'
+      c3: '16'
     web:
-      url: https://archives.valdoise.fr/ark:/18127/vta5203268ba8f94/daogrp/0/91
-      page: 91 / 272
-  document-creation:
-    date: '1875-04-05 14:30'
-  notes: |
-    Original name of the image: FRAD095_3E59_6_0091.jpg
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDktMTQiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjUzMzQ2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 5 / 14
   
 #
 # 4 - Transcription of the act
@@ -39,15 +37,16 @@ source:
 transcription:
   name:
     official:
-      family: Bourgeois
-      given: Jeanne Florentine
-  sex: F
+      family: Joliot
+      given: Jean Frédéric
+  sex: M
   birth:
-    date: '1875-04-03 22:00'
+    date: '1900-03-19 09:00'
     place:
-      name: Enghien-les-Bains
+      name: Paris
       cy: FR
-      c2: '95'
+      c2: '75'
+      c3: '16'
       
 #
 # 5 - Supplementary informations concerning the new born person,
@@ -55,11 +54,13 @@ transcription:
 #
 extras:
   name:
-    full: Mistinguett
+    family: Joliot-Curie
+    given: Frédéric
   ids-in-sources:
-    wd: Q235507
+    wd: Q150989
   partial-ids:
-    wd: Q235507
+    wd: Q150989
   occus: 
-    - dancer
+    - physicist
+    - chemist
   

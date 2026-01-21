@@ -62,9 +62,8 @@ transcription:
 #
 extras:
   name:
-    fame:
-      family: Audoux
-      given: Marguerite
+    family: Audoux
+    given: Marguerite
   ids-in-sources:
     wd: Q466650
   partial-ids:

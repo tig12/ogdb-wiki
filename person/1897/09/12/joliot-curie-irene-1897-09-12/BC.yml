@@ -62,10 +62,9 @@ transcription:
 #
 extras:
   name:
+    family: Joliot-Curie
     spouse:
       - Joliot
-    fame:
-      family: Joliot-Curie
   ids-in-sources:
     wd: Q7504
   partial-ids:

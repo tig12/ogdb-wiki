@@ -62,9 +62,8 @@ transcription:
 #
 extras:
   name:
-    fame:
-      family: Calvé
-      given: Emma
+    family: Calvé
+    given: Emma
   ids-in-sources:
     wd: Q452065
   partial-ids:

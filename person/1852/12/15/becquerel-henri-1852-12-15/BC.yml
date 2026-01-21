@@ -12,32 +12,39 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-08-23' # 23:41:55+02:00
-      action: Locate the act and add to opengauquelin.org
+      date: '2023-09-17' # 00:09:18+02:00
+      action: Retrieve the act on local machine
+  notes: |
     
 #
 # 2 - Optional information related to opengauquelin database integration
 #
 opengauquelin:
+  old-slug:
   projects:
-    - women
+    - 
+  fix-issues:
+    - 
    
 #
 # 3 - Informations about the act
 #
 source:
   civil-registry:
-    name: Archives de Paris, Naissances 17e, cote V4E 4737 
+    name: 5Mi1 761, 15/12/1852 - 15/12/1852
     place:
       name: Paris
       cy: FR
-      c2: '75'
-      c3: '17'
+      c2: 75
+      c3: 12
     web:
-      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDgtMjMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjI0MjA3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
-      page: 29 / 31
+      url: https://archives.paris.fr/_recherche-images/download/803581/image/510016/1/full/max/0/default.jpg
+      page: 2 / 51
   document-creation:
-    date: '1873-07-20 10:30'
+    date: 
+  notes: |
+  images: 
+    - archives_FRAD075AR_5Mi1_0761_02058.JPG
   
 #
 # 4 - Transcription of the act
@@ -45,31 +52,40 @@ source:
 transcription:
   name:
     official:
-      family: de Heredia
-      given: Marcelle
-    nobl: de
-  sex: F
+      family: 
+      given: 
+  sex: 
   birth:
-    date: '1873-07-17 05:00'
+    date: 
+    notime: true
     place:
-      name: Paris
-      cy: FR
-      c2: '75'
-      c3: '17'
+      name: 
+      cy: 
+      c1: 
+      c2: 
+      c3: 
       
 #
 # 5 - Supplementary informations concerning the new born person,
 #     but not present in the birth certificate
 #
 extras:
+  trust: 
   name:
-    family: Lapicque
+    family: 
+    given: 
     spouse:
-      - Lapicque
+      -
+    fame:
+      full: 
+      family: 
+      given: 
+    alter: 
+      - 
   ids-in-sources:
-    wd: Q21055169
+    wd: 
   partial-ids:
-    wd: Q21055169
+    wd: 
   occus: 
-    - physiologist
+    - 
   

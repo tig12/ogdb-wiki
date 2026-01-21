@@ -52,8 +52,7 @@ transcription:
       
 extras:
   name:
-      given: Jean
-      family: Delsarte
+    given: Jean
   ids-in-sources:
     wd: Q726390
   partial-ids:

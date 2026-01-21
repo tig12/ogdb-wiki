@@ -12,32 +12,25 @@ header:
   history:
     -
       actor: Thierry Graff
-      date: '2023-08-23' # 23:41:55+02:00
+      date: '2023-09-20' # 22:04:32+02:00
       action: Locate the act and add to opengauquelin.org
     
-#
-# 2 - Optional information related to opengauquelin database integration
-#
-opengauquelin:
-  projects:
-    - women
-   
 #
 # 3 - Informations about the act
 #
 source:
   civil-registry:
-    name: Archives de Paris, Naissances 17e, cote V4E 4737 
+    name: Archives de Paris, V4E 9074 
     place:
       name: Paris
       cy: FR
       c2: '75'
-      c3: '17'
+      c3: '10'
     web:
-      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDgtMjMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjI0MjA3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
-      page: 29 / 31
+      url: https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjMtMDktMTciO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQ3ODEwO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==
+      page: 8 / 21
   document-creation:
-    date: '1873-07-20 10:30'
+    date: '1901-09-01 12:00'
   
 #
 # 4 - Transcription of the act
@@ -45,17 +38,16 @@ source:
 transcription:
   name:
     official:
-      family: de Heredia
-      given: Marcelle
-    nobl: de
-  sex: F
+      family: Bicquard
+      given: Pierre Mardochée
+  sex: M
   birth:
-    date: '1873-07-17 05:00'
+    date: '1901-08-30 14:00'
     place:
       name: Paris
       cy: FR
       c2: '75'
-      c3: '17'
+      c3: '10'
       
 #
 # 5 - Supplementary informations concerning the new born person,
@@ -63,13 +55,11 @@ transcription:
 #
 extras:
   name:
-    family: Lapicque
-    spouse:
-      - Lapicque
+    given: Pierre
   ids-in-sources:
-    wd: Q21055169
+    wd: Q3384014
   partial-ids:
-    wd: Q21055169
+    wd: Q3384014
   occus: 
-    - physiologist
+    - physicist
   

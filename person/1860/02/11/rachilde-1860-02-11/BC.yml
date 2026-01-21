@@ -65,10 +65,7 @@ transcription:
 #
 extras:
   name:
-    given: Marguerite
-#    family: Eymery # to override wrong value 
-    fame:
-      full: Rachilde
+    full: Rachilde
     spouse:
       - Valette
     alter:

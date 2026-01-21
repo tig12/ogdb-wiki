@@ -62,10 +62,6 @@ transcription:
 #     but not present in the birth certificate
 #
 extras:
-  trust: 
-  name:
-    family: Schützenberger
-    given: Marcel-Paul
   ids-in-sources:
     wd: Q1384896
   partial-ids:

@@ -62,9 +62,11 @@ transcription:
 #
 extras:
   name:
-    fame:
-      family: Choquet-Bruhat
-      given: Yvonne
+    family: Choquet-Bruhat
+    given: Yvonne
+    spouse:
+      - Fourès
+      - Choquet
   ids-in-sources:
     wd: Q461112
   partial-ids:
