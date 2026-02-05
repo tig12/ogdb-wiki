@@ -1,0 +1,64 @@
+#
+# Transcription of a birth certificate
+# This document is released under the terms of licence
+# Creative Commons CC BY-SA 4.0 (Attribution-ShareAlike 4.0) 
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+
+# Note : This structure is used to add a new person AND associate a BC through a g5 command.
+# It is different from the structure used in opengauquelin web application,
+# where the addition of a BC is distinct from the addition of a person
+
+#
+# 1 - Informations related to current BC.yml file
+#
+header:
+  history:
+    -
+      actor: Thierry Graff
+      date: '2026-02-01 11:07:03+01:00'
+      action: Add to opengauquelin
+
+source:
+  civil-registry:
+    name: Rouen - 18/05/1899-30/06/1899 4 E 13917
+    place:
+      name: Rouen
+      cy: FR
+      c2: '76'
+    web:
+      url: https://www.archivesdepartementales76.net/ark:/50278/29526a005acb2ea6bef319a2796ea75a/dao/0/1/idsearch:RECH_37cb12e39d20fe075b6554cf9a272e68
+      page: 104 / 201
+  document-creation:
+    date: '1899-06-16 11:15'
+  
+#
+# 4 - Transcription of the act
+#
+transcription:
+  name:
+    official:
+      family: Chesneau
+      given: Marcel Maurice André
+  sex: M
+  birth:
+    date: '1899-06-15 02:00'
+    place:
+      name: Rouen
+      cy: FR
+      c2: '76'
+      
+#
+# 5 - Supplementary informations concerning the new born person,
+#     but not present in the birth certificate
+#
+extras:
+  name:
+    given: Marc
+  ids-in-sources:
+    wd: Q110225328
+  partial-ids:
+    wd: Q110225328
+  occus: 
+    - poet
+  

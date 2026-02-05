@@ -85,3 +85,5 @@ bc;add;fernandel-1903-05-08
 bc;add;chesneau-marc-1899-06-15
 bc;add;maurer-pierre-1924-05-22
 bc;add;aznavour-charles-1924-05-22
+bc;add;arloing-saturnin-1846-01-03
+bc;add;amagat-emile-1841-01-02
